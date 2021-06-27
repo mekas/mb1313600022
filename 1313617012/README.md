@@ -17,5 +17,11 @@ User who need simple app to track their friends
 
 
 
+Main Screen
+
+
+![](images/DUDE TRACKER.png)
+
+
 
 https://www.figma.com/file/0ZH09DMAEA4IhFigtHouYS/Untitled?node-id=1%3A2
