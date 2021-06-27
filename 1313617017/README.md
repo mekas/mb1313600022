@@ -1,6 +1,6 @@
 # Hiking Indonesia
 
-Hiking Indonesia adalah sebuah aplikasi android yang berguna untuk memberikan seputar informasi dan tips pendakian gunung-gunung di Indonesia.
+Hiking Indonesia is an android application that is useful for providing information and tips on mountain climbing in Indonesia.
 
 ## Target Segment
 
