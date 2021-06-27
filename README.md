@@ -34,7 +34,7 @@ I want to create an app that can display makeup products
 I want to make an app that will display the tourist attraction in Bandung
 
 ### 1313617012 (Muhammad Aldrich Rinaldi)
-I want to make an item counting application based from counter app for segurido case online shop
+I want to make an item counting application based from counter app for online shop entrepreneurs
 
 ### 3145162927 (Adhika Gressa Nugraha)
 I want to create a simple marketplace app.
