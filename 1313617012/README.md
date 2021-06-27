@@ -17,9 +17,6 @@ User who need simple app to track their friends
 
 
 
-[GitHub Logo](/1313617012/DUDETRACKER.png)
-
-
 
 
 https://www.figma.com/file/0ZH09DMAEA4IhFigtHouYS/Untitled?node-id=1%3A2
