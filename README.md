@@ -53,3 +53,6 @@ I want to create an app to order Updrink item
 
 ### 1313617017 (Ivan Adi Putra)
 I want to make a mountain climbing information application in Indonesia
+
+### 1313617037 (Irfan Zidni)
+I want to create a trivia quiz application that gives users random trivia questions
