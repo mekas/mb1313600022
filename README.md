@@ -44,3 +44,6 @@ I want to create an application that display information about taking care of pe
 
 ### 1313617027 (Wisnu Aji)
 I want to create an application to show information about motorcycle maintenance
+
+### 1313617030 (Faiz Akmal)
+I want to create an app that can display drink recipes
