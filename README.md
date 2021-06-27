@@ -56,3 +56,6 @@ I want to make a mountain climbing information application in Indonesia
 
 ### 1313617037 (Irfan Zidni)
 I want to create a trivia quiz application that gives users random trivia questions
+
+### 1313617021 (Yoshua Lukas)
+I want to create a medication reminder app that notify/remind users about their daily needs medication
