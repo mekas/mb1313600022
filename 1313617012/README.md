@@ -17,12 +17,8 @@ User who need simple app to track their friends
 
 
 
-Main Screen
+![](1313617012/DUDETRACKER.png)
 
-
-<p align="center">
-<img src="./DUDETRACKER.png>
-</p>
 
 
 
