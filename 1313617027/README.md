@@ -1,4 +1,4 @@
-MotoMaintenance
+### MotoMaintenance
 
 Motorcycle Maintenance apps
 
@@ -9,11 +9,11 @@ after that it will be taken to the next page in the form of what views must be r
 if the repair is selected, it will show you how and the steps and tools needed to repair the motor. 
 You will also be given a youtube link for those who want to know in more detail how to repair their own motorbike.
 
-#Target Segment
+### Target Segment
 
 Target segment for this apps is motorcycle owner that new on having a motorcycle but lazy enough to read maintenance book, so looking online of "what should i do?"
 
-#Features
+#### Features
 
 1. feature a motorcycle from 2010 - future
 
@@ -29,7 +29,7 @@ Target segment for this apps is motorcycle owner that new on having a motorcycle
 
 7. list of what should you do for next maintenance
 
-#WIREFRAME
+# WIREFRAME
 
 ![1-Splash-screen](https://user-images.githubusercontent.com/71313640/123548842-a77a3a80-d790-11eb-82e5-6df1faa471e1.png)
 ![2-Home](https://user-images.githubusercontent.com/71313640/123548862-c37ddc00-d790-11eb-96fa-de633346aed9.png)
