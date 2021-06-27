@@ -50,3 +50,6 @@ I want to create an app that can display drink recipes
 
 ### 1313617039 (Togu Annaaf Kumara)
 I want to create an app to order Updrink item
+
+### 1313617017 (Ivan Adi Putra)
+I want to make a mountain climbing information application in Indonesia
