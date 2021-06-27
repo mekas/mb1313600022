@@ -12,7 +12,7 @@ and some other treatments that need to be done for the good of their pet.
 - User can make a list of their pets
 
 ## Initial Wireframe of the App
-https://www.figma.com/file/m7Fyep03SWMXORnGmwXzRf/Pet-Care?node-id=1%3A2
+https://www.figma.com/file/m7Fyep03SWMXORnGmwXzRf/Pet-Care?node-id=0%3A1
 <p align="center">
 <img src="./cat-care2.png" alt="wireframe of the start, registration, and login pages">
 </p>
