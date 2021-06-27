@@ -9,7 +9,7 @@ Hiking Indonesia adalah sebuah aplikasi android yang berguna untuk memberikan se
 
 ## Features
 
--  Users can see what mountains are in the selected location by category (ex: Jawa Barat, Jawa timur)
+-  Users can see what mountains are in the selected location by category (ex: Jawa Barat, Jawa timur).
 -  Users can view detailed information such as locations and hiking trails for the mountain.
 -  Users can see what equipment is needed to climb the mountain.
 -  Users can view detailed information equipment tips for mountain climbing.
