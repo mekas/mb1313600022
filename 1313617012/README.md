@@ -17,8 +17,7 @@ User who need simple app to track their friends
 
 
 
-![](1313617012/DUDETRACKER.png)
-
+[GitHub Logo](/1313617012/DUDETRACKER.png)
 
 
 
