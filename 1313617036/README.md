@@ -1,4 +1,4 @@
-<h2>Bandung Tourism</h2>
+<h2>BANDUNG TOURISM</h2>
 
 This is an app that will display several tourist attractions contained in Bandung
 
