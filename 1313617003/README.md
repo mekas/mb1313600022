@@ -1,4 +1,4 @@
-# On News
+# OnNews
 
 OnNews is an application that makes it easy for users to access the latest news. This application contains the latest news on several topics, namely business, entertainment, health, sports, science, and technology so that users can easily get information. In this application, users will be able to directly access the page where the news is published.
 
