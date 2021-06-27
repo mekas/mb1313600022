@@ -59,3 +59,6 @@ I want to create a trivia quiz application that gives users random trivia questi
 
 ### 1313617021 (Yoshua Lukas)
 I want to create a medication reminder app that notify/remind users about their daily needs medication
+
+### 3145161971 (Dwi Aryanto Dio Wicaksono)
+I want to create an Taekwondo app that contains basic movement and Poomsae.
