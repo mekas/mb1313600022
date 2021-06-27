@@ -15,6 +15,8 @@ NuGo is an app where user can find nutritional values of food they are eating. T
 
 ## Initial Wireframe
 
-https://www.figma.com/proto/CdVNpjfOALGLMkOsAw6Pur/Nutrition-App?node-id=1%3A3&scaling=scale-down&page-id=0%3A1
+<p align="center">
+<img src="./nugo-wireframe.jpg" alt="wireframe of the start, registration, and login pages">
+</p>
 
-_by Hafizhun Alim_
+https://www.figma.com/proto/CdVNpjfOALGLMkOsAw6Pur/Nutrition-App?node-id=1%3A3&scaling=scale-down&page-id=0%3A1
