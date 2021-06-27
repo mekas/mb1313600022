@@ -20,7 +20,7 @@ User who need simple app to track their friends
 Main Screen
 
 
-![](images/DUDE TRACKER.png)
+![](images/1313617012.png)
 
 
 
