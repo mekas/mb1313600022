@@ -21,7 +21,7 @@ Main Screen
 
 
 <p align="center">
-<img src="./DUDE TRACKER.jpg"\>
+<img src="./DUDETRACKER.png>
 </p>
 
 
