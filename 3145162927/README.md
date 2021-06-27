@@ -1,6 +1,6 @@
 # Emarket App
 
-Emarket is an application where the user can sell or buy things.
+Emarket is an application where the user can sell or buy things. This application using firebase as its database.
 
 ## Target Segment
 
