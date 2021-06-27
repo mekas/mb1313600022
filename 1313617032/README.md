@@ -13,4 +13,8 @@ NuGo is an app where user can find nutritional values of food they are eating. T
 -  **Calorie Calculator**, make a calculation about users recommended calorie intake in a day based on height, weight, age, and activity
 -  **Daily Recipe**, a list of healty daily recipe food
 
+## Initial Wireframe
+
+https://www.figma.com/proto/CdVNpjfOALGLMkOsAw6Pur/Nutrition-App?node-id=1%3A3&scaling=scale-down&page-id=0%3A1
+
 _by Hafizhun Alim_
