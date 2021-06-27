@@ -15,4 +15,4 @@ Hiking Indonesia adalah sebuah aplikasi android yang berguna untuk memberikan se
 -  Users can view detailed information equipment tips for mountain climbing.
 
 ## Wireframe Preview
-https://www.figma.com/proto/RCcPxmtleG1Vhlutb86W0K/Untitled?node-id=1%3A108&scaling=scale-down&page-id=0%3A1
+https://www.figma.com/proto/RCcPxmtleG1Vhlutb86W0K/Untitled?node-id=1%3A5&scaling=scale-down&page-id=0%3A1
