@@ -5,6 +5,9 @@ This app will let user can read iqra from their own phone. Iqro is a textbook us
 ### Target Segment
 Children who are learning to read Qur'an and memorize the daily doa.
 
+### Advance Topic
+The advance topic that I apply is rest api to retrieve daily doa data. and webview to display iqra pdf. 
+
 ### Features
 - User can read iqro from iqro-1 to iqro-6
 - User can see list daily doa.
