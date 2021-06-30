@@ -13,8 +13,11 @@ and some other treatments that need to be done for the good of their pet.
 
 ## Advanced Topic
 - API
+
 The data about types of cat and some other information will be fetch from https://docs.thecatapi.com/api-reference/.
+
 - Firebase
+
 This app will be using Firebase to register new user and allow user to log in to the app.
 
 ## Initial Wireframe of the App
