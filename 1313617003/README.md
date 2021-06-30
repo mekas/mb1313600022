@@ -18,6 +18,7 @@ The data from the news will be fetch from https://newsapi.org/
 - WebView to display the news web page
 
 ## Initial Wireframe
+![SportlineNews](https://github.com/mekas/mb1313600022/blob/master/1313617003/SpotlineNews.png)
 
 Thank you.
 
