@@ -15,4 +15,4 @@ This is an app that will display several tourist attractions contained in Purwak
 - Google Maps API
 
 ## Initial Wireframe
-![Purwakarta Tourism (1)] (https://github.com/mekas/mb1313600022/blob/master/1313617036/Purwakarta%20Tourism%20(1).png)
+![Purwakarta Tourism (1)](https://github.com/mekas/mb1313600022/blob/master/1313617036/Purwakarta%20Tourism%20(1).png)
