@@ -16,13 +16,17 @@ User who need simple app to track their friends or family members realtime locat
 
 # Advance Topic
 • Google Maps API 
+
 • Firebase
+
 • REST API
 
 
 
 ## Initial Wireframe
 
+
+https://wireframe.cc/pro/pp/b616903b6454096
 
 
 ![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/startpage.png)     ![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/nameregister.png)
