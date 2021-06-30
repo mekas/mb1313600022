@@ -38,6 +38,7 @@ https://wireframe.cc/pro/pp/b616903b6454096
 
 ![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/startpage.png)     ![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/nameregister.png)
 
-![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/homescreen.png)    ![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/addfriends.png)
+![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/homescreen.png)     ![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/viewallfriendslist.png)
 
-![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/success%20add%20friend.png)
+  ![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/addfriends.png)     ![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/success%20add%20friend.png)
+
