@@ -15,10 +15,7 @@ NuGo is an app where users can find nutritional values of food they are eating. 
 
 ## Data Source
 
-The nutritional data will be fetch from [edamam nutritional api](https://developer.edamam.com/edamam-nutrition-api). Their free tier have some limitations like
-
--  400 recipes hit / month
--  10 recipes hit / minute
+The nutritional data will be fetch from [edamam nutritional api](https://developer.edamam.com/edamam-nutrition-api). They have a free plan, but with some limitations.
 
 ## Initial Wireframe
 
