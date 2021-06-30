@@ -10,7 +10,7 @@ JIDQUIZ is an application where users are given trivia questions about general k
 The trivia question and answer data will be taken from [Open Trivia Database](https://opentdb.com/browse.php) using API
 
 ### Features
-- User can choose 4 different trivia categories
+- User can choose 4 different trivia categories (General knowledge, science & nature, film, mythology)
 - User can choose 3 different difficulty
 - User can see their high score
 
