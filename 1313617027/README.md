@@ -2,16 +2,12 @@
 
 Motorcycle Maintenance apps
 
-motorcycle need maintenance every 5000km. in current condition, it's not possible to go to workshop and wait there as chance of contracting with covid is really high. 
-therefore I created an application that can be used to make it easier and educate ordinary people so that they can repair their own motorbikes. 
-in this application there is a main menu, inside there will be form of a choice of motorbikes from 3 well-known brands in Indonesia, and enter the speedometer number. 
-after that it will be taken to the next page in the form of what views must be repaired and replaced. 
-if the repair is selected, it will show you how and the steps and tools needed to repair the motor. 
-You will also be given a youtube link for those who want to know in more detail how to repair their own motorbike.
+MotoMaintenance is android application that can help user to maintenance their own motorcycle. this apps is containing with information about motorcycle, tips around motorcycle
+and maintenance guide
 
 ### Target Segment
 
-Target segment for this apps is motorcycle owner that new on having a motorcycle but lazy enough to read maintenance book, so looking online of "what should i do?"
+Target segment for this apps is motorcycle owner that want to learn how to maintenance motorcycle by himself
 
 #### Features
 
@@ -29,14 +25,19 @@ Target segment for this apps is motorcycle owner that new on having a motorcycle
 
 7. list of what should you do for next maintenance
 
-# WIREFRAME
+### Advance Topic
 
-![1-Splash-screen](https://user-images.githubusercontent.com/71313640/123548842-a77a3a80-d790-11eb-82e5-6df1faa471e1.png)
-![2-Home](https://user-images.githubusercontent.com/71313640/123548862-c37ddc00-d790-11eb-96fa-de633346aed9.png)
-![3-Information](https://user-images.githubusercontent.com/71313640/123548857-c11b8200-d790-11eb-89c1-76aae091ca3a.png)
-![4-Part](https://user-images.githubusercontent.com/71313640/123548859-c24caf00-d790-11eb-99be-965ce1627b1d.png)
-![5-Do-It-Yourself](https://user-images.githubusercontent.com/71313640/123548860-c24caf00-d790-11eb-9eb5-af10db4c24a3.png)
-![6-STUCK-](https://user-images.githubusercontent.com/71313640/123548861-c2e54580-d790-11eb-9d71-28af098fdee2.png)
+android webview, so motorcycle owner can searching what part and tools needed and also autorizhed dealer web
+
+### WIREFRAME
+
+![1-Splash-screen](https://user-images.githubusercontent.com/71313640/123910675-01ebe480-d9a5-11eb-8288-67f9e98ac733.png)
+![2-Home](https://user-images.githubusercontent.com/71313640/123910679-01ebe480-d9a5-11eb-9670-d441c56822e3.png)
+![3-Information](https://user-images.githubusercontent.com/71313640/123910680-02847b00-d9a5-11eb-9825-afdd0f7d3f62.png)
+![4-Part](https://user-images.githubusercontent.com/71313640/123910681-02847b00-d9a5-11eb-9402-aad3a3c91ac8.png)
+![5-Do-It-Yourself](https://user-images.githubusercontent.com/71313640/123910671-00222100-d9a5-11eb-945e-0cdfc0b0c7a1.png)
+![6-android-webview](https://user-images.githubusercontent.com/71313640/123910674-01534e00-d9a5-11eb-9bfa-d1f8e328e1dc.png)
+
 
 
 https://wireframe.cc/pro/pp/cb41a1788453464
