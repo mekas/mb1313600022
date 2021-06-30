@@ -14,11 +14,19 @@ User who need simple app to track their friends or family members realtime locat
 
 • Track friend devices realtime location.
 
+# Advance Topic
+• Google Maps API 
+• Firebase
+• REST API
+
+
 
 ## Initial Wireframe
 
 
 
+![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/startpage.png)     ![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/nameregister.png)
 
+![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/homescreen.png)    ![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/addfriends.png)
 
-https://www.figma.com/file/0ZH09DMAEA4IhFigtHouYS/Untitled?node-id=1%3A2
+![startpage](https://github.com/mekas/mb1313600022/blob/master/1313617012/success%20add%20friend.png)
