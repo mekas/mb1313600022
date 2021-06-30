@@ -1,16 +1,19 @@
-# Muslim Daily Apps
+# Covid Information
 
-This application main features is praying time reminder for muslim
+This application will show information about covid spread in indonesia
 
 # Target Segment
 
--  Muslim community which have outside activity
+-  User in General
+-  user who want to know about covid update in Indonesia
 
 # Features
 
-- Praying time alarm
-- Qiblah pointer
+- Daily update about covid spread
+- Covid spread on province level
 
 # Initial Wireframe
 
-https://www.figma.com/file/lVA0RYyV0LeC83EaLXiCTp/Muslim-Daily-Apps
+https://www.figma.com/file/SGSTIfH0MloX2NCvHBJ6Xp/Covid-19-Spread?node-id=0%3A1
+
+this figma and feature just an example, maybe i will make more complex than this, depends on the resource i will use
