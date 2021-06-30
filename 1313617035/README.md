@@ -16,6 +16,6 @@ and some other treatments that need to be done for the good of their pet.
 
 ## Initial Wireframe of the App
 <p align="center">
-<img src="./cat-care3.png" alt="wireframe of the start, registration, and login pages">
+<img src="./cat-care4.png" alt="wireframe of the start, registration, and login pages">
 </p>
 https://www.figma.com/file/77CjxqOUK2b4ZRQ3hKIE2W/Cat-Care?node-id=0%3A1
