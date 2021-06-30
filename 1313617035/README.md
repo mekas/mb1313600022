@@ -4,8 +4,8 @@ This application will show suggestions for appropriate food according to the age
 and some other treatments that need to be done for the good of their pet.
 
 ## Target Segment
-- User who are new pet owners
-- User who needs information about pet care
+- User who are new cat owners
+- User who needs information about cat care
 
 ## Features of the App
 - User can see each information from 5 topics of Cat Care
