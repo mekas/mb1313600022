@@ -11,6 +11,9 @@ and some other treatments that need to be done for the good of their pet.
 - User can see each information from 5 topics of Cat Care
 - User can make a list of their pets
 
+## Advanced Topic
+The data about types of cat and some other information will be fetch from **https://docs.thecatapi.com/api-reference/**.
+
 ## Initial Wireframe of the App
 https://www.figma.com/file/m7Fyep03SWMXORnGmwXzRf/Pet-Care?node-id=0%3A1
 <p align="center">
