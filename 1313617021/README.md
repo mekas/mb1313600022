@@ -17,4 +17,5 @@ How the app will works:
 - Customers can see their history medication throughout using the app.
 
 ## Initial Wireframe
+![e-Pillz Wireframe](https://github.com/mekas/mb1313600022/blob/master/1313617021/e-Pillz%20Meds%20Reminder%20App.png)
 https://www.figma.com/file/B9fd2NYOkymgtYqN1NQkeG/e-Pillz-Meds-Reminder-App?node-id=0%3A1 
