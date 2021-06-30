@@ -21,7 +21,7 @@ This app features:
 * A settings screen where the user can manually change the app's color scheme and log out of the app.
 
 <p align="center">
-<img src="./setting.png" alt="wireframe of the settings page" width="250" height="500">
+<img src="./settings.png" alt="wireframe of the settings page" width="250" height="500">
 </p>
 
 The advanced topics that will be implemented are **Firebase Database**, for user's period data, and **Firebase Authentication**. No API will be used for this app, as this app will only rely on the user's submitted data to calculate the desired prediction.
