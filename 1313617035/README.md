@@ -12,13 +12,8 @@ and some other treatments that need to be done for the good of their pet.
 - User can make a list of their pets
 
 ## Advanced Topic
-- Firebase
-
-This app will be using Firebase to register new user and allow user to log in to the app.
-
-- API
-
-The data about types of cat and some other information will be fetch from https://docs.thecatapi.com/api-reference/.
+- Firebase (This app will be using Firebase to register new user and allow user to log in to the app)
+- API (The data about types of cat will be fetch from https://docs.thecatapi.com/api-reference/)
 
 ## Initial Wireframe of the App
 <p align="center">
