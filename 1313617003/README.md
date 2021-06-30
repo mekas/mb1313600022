@@ -1,19 +1,23 @@
-# OnNews
+# SportlineNews
 
-OnNews is an application that makes it easy for users to access the latest news. This application contains the latest news on several topics, namely business, entertainment, health, sports, science, and technology so that users can easily get information. In this application, users will be able to directly access the page where the news is published.
+SportlineNews is an application where users can find news about sports. In this way users can get up-to-date information about sports from various sources on the news page.
 
-The target segment of this application is people who will read the news.
+## Target Segment
+- Users in general
+- Users who like sports
 
-Features that are likely to be made:
+## Features
+- List of news, this list contains images, sources, and also a little description of the news.
+- News details, this section is a webview of the news web page that published the news
 
-![All Features](https://github.com/mekas/mb1313600022/blob/master/1313617003/All%20Features.png)
+## Data Source
+The data from the news will be fetch from https://newsapi.org/
 
-- The following are features that are likely to be made in this application.
- 
-![OnNews](https://github.com/mekas/mb1313600022/blob/master/1313617003/OnNews.png)
+## Advance Topic
+- Rest API to retrieve up-to-date news
+- WebView to display the news web page
 
-- When opening this application, it will appear as in the far left image above.
-Then, it appears like the picture in the middle, namely news with business topics. In that section, when we click on a news item, it will open the details of the news as shown in the far right image.
+## Initial Wireframe
 
 Thank you.
 
