@@ -2,9 +2,6 @@
 
 An app where users can track their period schedule. The app can **predict the user's future period schedule, ovulation day, and fertile window**. The cycle used to predict future period schedules is calculated by counting the days between the last day of the last period and the first day of the current period. While ovulation might vary for each persons, this app uses the most commonly used method to calculate the probability of the ovulation day. The ovulation is calculated by substracting 14 days from the end of the period cycle, while the fertile window is predicted to be 5 days before the ovulation happen.
 
-The advanced topics that will be implemented are **Firebase Database**, for user's period data, and **Firebase Authentication**.
-No API will be used for this app, as this app will only rely on the user's submitted data to calculate the desired prediction.
-
 The target segment for this app is people that might want to **track their period and predict their fertile window**.
 
 This app features:
@@ -21,10 +18,13 @@ This app features:
 <img src="./cal.png" alt="wireframe of the calendar page" width="250" height="500">
 </p>
 
-* A settings screen where the user can manually change the average length of their period and period cycle, color scheme, and log out of the app.
+* A settings screen where the user can manually change the app's color scheme and log out of the app.
 
 <p align="center">
 <img src="./setting.png" alt="wireframe of the settings page" width="250" height="500">
 </p>
+
+The advanced topics that will be implemented are **Firebase Database**, for user's period data, and **Firebase Authentication**.
+No API will be used for this app, as this app will only rely on the user's submitted data to calculate the desired prediction.
 
 _by Nadira Meidina Yasmine_
