@@ -31,12 +31,12 @@ android webview, so motorcycle owner can searching what part and tools needed an
 
 ### WIREFRAME
 
-![1-Splash-screen](https://user-images.githubusercontent.com/71313640/123910675-01ebe480-d9a5-11eb-8288-67f9e98ac733.png)
-![2-Home](https://user-images.githubusercontent.com/71313640/123910679-01ebe480-d9a5-11eb-9670-d441c56822e3.png)
-![3-Information](https://user-images.githubusercontent.com/71313640/123910680-02847b00-d9a5-11eb-9825-afdd0f7d3f62.png)
-![4-Part](https://user-images.githubusercontent.com/71313640/123910681-02847b00-d9a5-11eb-9402-aad3a3c91ac8.png)
-![5-Do-It-Yourself](https://user-images.githubusercontent.com/71313640/123910671-00222100-d9a5-11eb-945e-0cdfc0b0c7a1.png)
-![6-android-webview](https://user-images.githubusercontent.com/71313640/123910674-01534e00-d9a5-11eb-9bfa-d1f8e328e1dc.png)
+![1-Splash-screen](https://user-images.githubusercontent.com/71313640/123911154-9b1afb00-d9a5-11eb-9c01-060817a60c01.png)
+![2-Home](https://user-images.githubusercontent.com/71313640/123911147-99513780-d9a5-11eb-9d66-f80e944520ed.png)
+![3-Information](https://user-images.githubusercontent.com/71313640/123911148-99e9ce00-d9a5-11eb-8c6f-2fe1be5b92a4.png)
+![4-Part](https://user-images.githubusercontent.com/71313640/123911149-99e9ce00-d9a5-11eb-9a96-7aeb12ee5e5f.png)
+![5-Do-It-Yourself](https://user-images.githubusercontent.com/71313640/123911150-9a826480-d9a5-11eb-9cfb-07d470966f4a.png)
+![6-android-webview](https://user-images.githubusercontent.com/71313640/123911153-9b1afb00-d9a5-11eb-9cad-a6af106b96e7.png)
 
 
 
