@@ -17,4 +17,5 @@ How the App will Works:
 - Customers can see favorite menu of their own.
 
 ### Initial Wireframe
+![Wireframe Image](https://github.com/mekas/mb1313600022/blob/master/1313617024/Wireframe%20Gakedai%20App.png)
 https://www.figma.com/file/gfNOAFtFMkn8TQU4KyeEYM/Wireframe-Gakedai-App?node-id=0%3A1
