@@ -1,4 +1,3 @@
-![Updrink Apps](https://user-images.githubusercontent.com/57168858/123898860-4caf3180-d990-11eb-8484-dd2fdd5b74b6.jpg)
 # Updrink Apps
 
 This application is used to make it easier for customers to place orders online to buy updrinks. How this app works:
