@@ -1,5 +1,5 @@
 # Easy Shake
-Easy Shake is an application that will display recipes, ingredients, instructions about drink.
+Easy Shake is an application that will display recipes, ingredients, instructions about drinks from around the world.
 
 ## Target Segment
 Target segment of this application is for people who want to make drink but they don't know or forget recipe, ingredients and instructions how to make it.
