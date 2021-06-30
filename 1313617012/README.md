@@ -10,15 +10,17 @@ User who need simple app to track their friends or family members realtime locat
 
 # Features
 
-• add friends using name and unique 8 characters Token ID
-
 • save friend devices
 
 • Track friend devices realtime location
 
+• add friends using name and unique 8 characters Token ID
+
+
 
 
 # Advance Topic
+
 • Google Maps API 
 
 • Firebase
