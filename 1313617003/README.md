@@ -11,10 +11,10 @@ SportlineNews is an application where users can find news about sports. In this 
 - News details, this section is a webview of the news web page that published the news
 
 ## Data Source
-The data from the news will be fetch from https://newsapi.org/
+The data from the news will be fetch from News API https://newsapi.org/
 
 ## Advance Topic
-- Rest API to retrieve up-to-date news
+- REST API to retrieve up-to-date news
 - WebView to display the news web page
 
 ## Initial Wireframe
