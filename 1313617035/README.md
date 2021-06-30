@@ -1,7 +1,7 @@
 # Cat Care
-Cat Care is an application for someone who has a cat and wants to find out how to take care of their pet on a daily basis so that their pet grows well and healthy.
-This application will show suggestions for appropriate food according to the age of the pet, how to bathe their pet according to the type of pet,
-and some other treatments that need to be done for the good of their pet.
+Cat Care is an application for someone who has a cat and wants to find out how to take care of their cat on a daily basis so that their cat grows well and healthy.
+This application will show suggestions for appropriate food according to the age of the cat, how to bathe their pet according to the type of cat,
+and some other treatments that need to be done for the good of their cat.
 
 ## Target Segment
 - User who are new cat owners
@@ -9,7 +9,7 @@ and some other treatments that need to be done for the good of their pet.
 
 ## Features of the App
 - User can see each information from 5 topics of Cat Care
-- User can make a list of their pets
+- User can make a list of their cats
 
 ## Advanced Topic
 - Firebase (This app will be using Firebase to register new user and allow user to log in to the app)
