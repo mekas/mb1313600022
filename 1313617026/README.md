@@ -24,7 +24,6 @@ This app features:
 <img src="./setting.png" alt="wireframe of the settings page" width="250" height="500">
 </p>
 
-The advanced topics that will be implemented are **Firebase Database**, for user's period data, and **Firebase Authentication**.
-No API will be used for this app, as this app will only rely on the user's submitted data to calculate the desired prediction.
+The advanced topics that will be implemented are **Firebase Database**, for user's period data, and **Firebase Authentication**. No API will be used for this app, as this app will only rely on the user's submitted data to calculate the desired prediction.
 
 _by Nadira Meidina Yasmine_
