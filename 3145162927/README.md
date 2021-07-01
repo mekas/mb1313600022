@@ -1,6 +1,6 @@
 # Emarket App
 
-Emarket is an application where the user can sell or buy things. This application using firebase as its database.
+Emarket is an application where the user can sell or buy things. This app is try on working with the shop/stall owner around Masnaga, Pulogebang. 
 
 ## Target Segment
 
