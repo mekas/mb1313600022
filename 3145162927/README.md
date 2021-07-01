@@ -1,11 +1,12 @@
 # Emarket App
 
-Emarket is an application where the user can sell or buy things. This app is try on working with the shop/stall owner around Masnaga, Pulogebang. 
+Emarket is an application where the user can sell or buy things. This app is try on working with the shop/stall owner around Masnaga residental area, Pulogebang. This app will provide transaction for people around Masnaga residental area for their daily needs from registered shops/stalls on Emarket without leaving home.  
 
 ## Target Segment
 
 - People who want to do business by selling things
 - People looking for their needs online
+> _Mentioned target segment above are all Masnaga resident_
 
 ## Features
 
