@@ -12,4 +12,4 @@ This repo is used to submit proposal for Final Project mobile computing course t
 I want to create an calculator application that specifically calculates taxes based on local tax regulations in Indonesia
 
 ### 1313618030(Farhan Herdian Pradana)
-I want to create anime database app so that anime watchers can finding anime, give score, review, and add favorite
+I want to create anime database app so that anime watchers can find anime, give score, review, and add favorite
