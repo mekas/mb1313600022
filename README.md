@@ -13,3 +13,6 @@ I want to create an calculator application that specifically calculates taxes ba
 
 ### 1313618030(Farhan Herdian Pradana)
 I want to create anime database app so that anime watchers can find anime, give score, review, and add favorite
+
+### 1313618008(Lazuardy Khatulistiwa)
+I want to make an application that will show articles about programming tutorial in Indonesian
