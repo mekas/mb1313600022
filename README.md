@@ -15,4 +15,4 @@ I want to create an calculator application that specifically calculates taxes ba
 I want to create anime database app so that anime watchers can find anime, give score, review, and add favorite
 
 ### 1313618008(Lazuardy Khatulistiwa)
-I want to make an application that will show articles about programming tutorial in Indonesian
+I want to create an application that will show articles about programming tutorial in Indonesian
