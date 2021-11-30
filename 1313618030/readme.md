@@ -1,4 +1,4 @@
-# MyAnime
+# MyAnimeDB
 
 I want to create anime database app so that anime watchers can finding anime, give score, review, and add favorite
 
