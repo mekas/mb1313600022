@@ -22,3 +22,15 @@ I want to create an application that will show food recipes
 
 ### 1313618033(Lisa Arief)
 I want to make an application that will display surahs and verses of the Qur'an
+
+### 1313618006(Agatha Marcella)
+I like to propose an app that will display list of coffee shops with good ambience and can make people focus on work.
+
+### 1313618012(Fathimah Azzahra)
+I want to make an app that gives notification reminder to upcoming movies with details
+
+### 1313618025(Cindi Tri Fitikasari)
+I want to make book and novels review app
+
+### 131361016(Ridwan Syah)
+I want to make an app that will show movie trailers, movie details and add bookmarks
