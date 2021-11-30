@@ -16,7 +16,6 @@ The advance topic that I apply is
 - User can see the calculation of the BPTHB tax given to him along with an explanation of the calculation of the tax
 - User can see the calculation of the restaurant tax given to him
 - User can see the calculation of the Hotel tax given to him
-- User can see the calculation of the restaurant tax given to him
 - user can see the calculation history
 - 
 
