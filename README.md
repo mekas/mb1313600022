@@ -21,4 +21,4 @@ I want to create an application that will show articles about programming tutori
 I want to create an application that will show food recipes
 
 ### 1313618033(Lisa Arief)
-I want to make an application that will display the surahs and verses of the Qur'an
+I want to make an application that will display surahs and verses of the Qur'an
