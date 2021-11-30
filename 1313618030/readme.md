@@ -4,7 +4,7 @@ I want to create anime database app so that anime watchers can finding anime, gi
 
 ## Target Segment
 
-- Anime lovers
+- Anime watchers
 
 ## Advance Topics
 
