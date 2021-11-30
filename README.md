@@ -16,3 +16,6 @@ I want to create anime database app so that anime watchers can find anime, give 
 
 ### 1313618008(Lazuardy Khatulistiwa)
 I want to create an application that will show articles about programming tutorial in Indonesian
+
+### 1313618009(Novitasari)
+I want to create an application that will show food receips
