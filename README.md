@@ -32,8 +32,8 @@ I want to make an app that gives notification reminder to upcoming movies with d
 ### 1313618025(Cindi Tri Fitikasari)
 I want to make book and novels review app
 
-### 131361016(Ridwan Syah)
+### 1313618016(Ridwan Syah)
 I want to make an app that will show movie trailers, movie details and add bookmarks
 
-### 131361017(Zakiyah Hamidah)
+### 1313618017(Zakiyah Hamidah)
 I want to make an app that will show us creative ideas to recycle and reuse a trash (DIY/Do it yourself)
