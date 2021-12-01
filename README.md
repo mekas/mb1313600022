@@ -39,4 +39,4 @@ I want to make an app that will show movie trailers, movie details and add bookm
 I want to make an app that will show us creative ideas to recycle and reuse a trash (DIY/Do it yourself)
 
 ### 1313618004(Tantyo N T)
-I wish to create an app where users can read most of Lovecraft's recorded cosmic horror literature.
+I wish to create an app where users can read most of Lovecraft's recorded cosmic horror literatures.
