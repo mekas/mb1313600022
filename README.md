@@ -55,3 +55,6 @@ I want to make manga reader app
 
 ### 1313618018 (Dhimas Amri Pratama)
 I want to make a to do list app that will help us manage our task.
+
+### 1313618038(Fajar Nurrahman)
+I want to make an application about PC game reviews for users who want to find the best games and join the community
