@@ -57,4 +57,4 @@ I want to make manga reader app
 I want to make a to do list app that will help us manage our task.
 
 ### 1313618038(Fajar Nurrahman)
-I want to make an application about PC game reviews for users who want to find the best games and join the community
+I want to make an app about PC game reviews for users who want to find the best games and join the community
