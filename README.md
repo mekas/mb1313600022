@@ -54,4 +54,4 @@ I want to make an workout reminder that will show workout movement and tips n tr
 I want to make manga reader app
 
 ### 1313618018 (Dhimas Amri Pratama)
-I want to make a to do list app that will help us manage our time.
+I want to make a to do list app that will help us manage our task.
