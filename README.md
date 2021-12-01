@@ -58,3 +58,6 @@ I want to make a to do list app that will help us manage our task.
 
 ### 1313618038(Fajar Nurrahman)
 I want to make an app about PC game reviews for users who want to find the best games and join the community
+
+### 1313618037 (Adi Rahman)
+I want to make an application that displays information on the availability of room or bed capacity in a hospital
