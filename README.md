@@ -43,3 +43,6 @@ I wish to create an app where users can read most of Lovecraft's recorded cosmic
 
 ### 1313618005(Diyah Anggraeny)
 I want to make a dictionary app where users can search the meaning of words
+
+### 1313618001 (Afny)
+I want to make an invitation attendance check application
