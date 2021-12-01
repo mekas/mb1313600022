@@ -21,7 +21,7 @@ I want to create an application that will show articles about programming tutori
 I want to create an application that will show food recipes
 
 ### 1313618033(Lisa Arief)
-I want to make an application that will display surahs and verses of the Qur'an with the daily recitation schedule feature as a notification
+I want to make an application that will display surahs and verses of the Qur'an
 
 ### 1313618006(Agatha Marcella)
 I like to propose an app that will display list of coffee shops with good ambience and can make people focus on work.
@@ -49,3 +49,6 @@ I want to make an invitation attendance check application
 
 ### 1313618023 (Mushab Utsmani Ibrahim)
 I want to make an workout reminder that will show workout movement and tips n trick
+
+### 1313618032
+I want to make manga reader app
