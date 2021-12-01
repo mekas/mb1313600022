@@ -40,3 +40,6 @@ I want to make an app that will show us creative ideas to recycle and reuse a tr
 
 ### 1313618004(Tantyo N T)
 I wish to create an app where users can read most of Lovecraft's recorded cosmic horror literatures.
+
+### 1313618005(Diyah Anggraeny)
+I want to make a dictionary app where users can search the meaning of words
