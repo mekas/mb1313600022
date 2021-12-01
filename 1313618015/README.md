@@ -7,9 +7,7 @@ I want to create an calculator application that specifically calculates taxes in
 - [x] users who really wants to know the tax given to him on his assets 
 
 ## Advance Topic
-The advance topic that I apply is 
-
-## Data Source
+- Webview
 
 ## Features
 - User can see the calculation of the PBB tax given to him along with an explanation of the calculation of the tax
@@ -17,7 +15,6 @@ The advance topic that I apply is
 - User can see the calculation of the restaurant tax given to him
 - User can see the calculation of the Hotel tax given to him
 - user can see the calculation history
-- 
 
 ### Wireframe
 
