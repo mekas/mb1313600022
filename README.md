@@ -50,5 +50,5 @@ I want to make an invitation attendance check application
 ### 1313618023 (Mushab Utsmani Ibrahim)
 I want to make an workout reminder that will show workout movement and tips n trick
 
-### 1313618032
+### 1313618032 (Aldian Asmara)
 I want to make manga reader app
