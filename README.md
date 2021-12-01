@@ -61,3 +61,6 @@ I want to make an app about PC game reviews for users who want to find the best 
 
 ### 1313618037 (Adi Rahman)
 I want to make an application that displays information on the availability of room or bed capacity in a hospital
+
+### 1313618010 (Muhammad Asyraf Amanullah)
+I want to make food recipe app 
