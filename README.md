@@ -67,3 +67,6 @@ I want to make food recipe app
 
 ### 1313618036 (Khulaifi Alkatsiri)
 I want to make an application that displays information about local shoe product in indonesia
+
+### 1313618013 (Zaidan Pratama)
+I want to make an application for people to scan the url so that they know the url is safe or not and the app also provides top recents phising links
