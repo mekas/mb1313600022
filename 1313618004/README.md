@@ -1,6 +1,6 @@
 # Lovecraft Archive
 
-I wish to create an app where users can read most of Lovecraft's recorded "cosmic horror" literatures.
+I wish to create an app using flutter where users can read most of Lovecraft's recorded "cosmic horror" literatures.
 
 # Target Users
 
