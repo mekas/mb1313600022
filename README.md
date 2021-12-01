@@ -52,3 +52,6 @@ I want to make an workout reminder that will show workout movement and tips n tr
 
 ### 1313618032 (Aldian Asmara)
 I want to make manga reader app
+
+### 1313618018 (Dhimas Amri Pratama)
+I want to make a to do list app that will help us manage our time.
