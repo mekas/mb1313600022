@@ -70,3 +70,6 @@ I want to make an application that displays information about local shoe product
 
 ### 1313618013 (Zaidan Pratama)
 I want to make an application for people to scan the url so that they know the url is safe or not and the app also provides top recents phising links
+
+### 1313618014 (Muhammad Ardani)
+I want to make an application that will show football leagues & cups include livescore etc.
