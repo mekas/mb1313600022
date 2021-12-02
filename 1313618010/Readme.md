@@ -15,4 +15,7 @@ This app can display nearest hospital, pharmacy, clinic, and drug store /km. Thi
 - Rest Api
 - Google Maps
 
+## Mock Up
+
+![Detail Item](https://user-images.githubusercontent.com/95219915/144498663-5a0108a0-525d-4af4-9bde-74bb64f1ce70.jpg)
 
