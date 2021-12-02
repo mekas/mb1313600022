@@ -76,3 +76,6 @@ I want to make an application that will show football leagues & cups include liv
 
 ### 1313618002 (Nilatil Moena)
 I want to create an application that can display information about Marvel's library of comic
+
+### 1313618007 (Andri Rahmanto)
+I want to make a noise detection application, which makes it possible for the user to know the noise in db units
