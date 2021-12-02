@@ -17,7 +17,7 @@ This app can display nearest hospital, pharmacy, clinic, and drug store /km. Thi
 
 ## Mock Up
 
-         Splash Screen
+Splash Screen
 ![Splash Screen](https://user-images.githubusercontent.com/95219915/144498834-a9d6f28b-17fd-4f36-8880-9a17011d7175.jpg)
 
 
