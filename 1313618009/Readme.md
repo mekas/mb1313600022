@@ -1,7 +1,7 @@
 # HappyCooking
 cooking its easy and fun. HappyCooking is an application where users can see many food recipes. The app also show detail recipes, ingredient, etc.
 ## Target Segment
-Uer who interest to cooking, moms, etc
+User who interest to cooking, moms, etc
 ## Advance Topic
 - Rest API
 ## Features
