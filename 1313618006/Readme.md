@@ -1,5 +1,5 @@
 # WorkSpace
-Since pandemic everyone working from home, so i thought some people would get bored to work from home every single day and might need new place with good ambience and wifi. I want to make an app that will display list of coffee shops and can make people focus or get the inspiration for work.
+Since pandemic everyone's starting to work from home, so i thought some people would get bored working from home every single day and might need new place with good ambience and wifi. I want to make an app that will display list of coffee shops that can make people more focus or get the inspirations for their work.
 ## Target Segment
 - User who work from home
 ## Advance Topic
