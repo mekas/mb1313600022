@@ -4,7 +4,7 @@ I want to make an application for people to scan the url so that they know the u
 
 ## Target Segment
 
-- People who wants to check the url they want to visit
+People who wants to check the url they want to visit 
 
 ## Advance Topics
 
@@ -12,9 +12,11 @@ I want to make an application for people to scan the url so that they know the u
 
 ## Features
 
-- User can enter url they want to check and see the result
+- User can enter url/link they want to check and see the scan result from various security checker
 - User can see top recents phising links
 
 ## Mockups
 
-Coming Soon
+![Splash Screen](https://github.com/mekas/mb1313600022/tree/master/1313618013/splashscreen.png)
+![Home Page](https://github.com/mekas/mb1313600022/tree/master/1313618013/homepage.png)
+![Detail Page](https://github.com/mekas/mb1313600022/tree/master/1313618013/detailpage.png)
