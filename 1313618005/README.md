@@ -14,5 +14,6 @@ Addict is an English Dictionary application based on Android. In this applicatio
 - User can hear the pronunciation sound of the word
 
 ## UI Mockups
+<img src="UI Mockups.png">
 
 
