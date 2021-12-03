@@ -80,7 +80,7 @@ I want to create an application that can display information about Marvel's libr
 ### 1313618007 (Andri Rahmanto)
 I want to make a noise exhaust detection application, which makes it possible for the user to know the exhaust noise in db units
 
-### 1313618025 (Gian Chiesa Maghriza)
+### 1313618021 (Gian Chiesa Maghriza)
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
 
 ### 1313618026 (Rachel Haryawan)
