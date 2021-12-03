@@ -36,7 +36,7 @@ I want to make book and novels review app
 I want to make an app that will show movie trailers, movie details and add bookmarks
 
 ### 1313618017 (Zakiyah Hamidah)
-I want to make an app that will show us creative ideas to recycle and reuse a trash (DIY/Do it yourself)
+I want to make an app that will show us information about islamic boarding school in indonesia
 
 ### 1313618004 (Tantyo N T)
 I wish to create an app where users can read most of Lovecraft's recorded cosmic horror literatures.
