@@ -9,3 +9,4 @@ REST API
 - Users can see a little overview in the form of a list about selected categories
 - Display detailed information of the selected content
 # Mockup
+![Mockup Marvel](https://github.com/mekas/mb1313600022/blob/master/1313618002/Mockups/Mockup.png)
