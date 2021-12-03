@@ -82,3 +82,6 @@ I want to make a noise exhaust detection application, which makes it possible fo
 
 ### 1313618025 (Gian Chiesa Maghriza)
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
+
+### 1313618026 (Rachel Haryawan)
+I want to make an application that can display weekly meal planner.
