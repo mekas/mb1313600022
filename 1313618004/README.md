@@ -21,4 +21,4 @@ I wish to create an app using flutter where users can read most of Lovecraft's a
 
 # Design / Mockup
 
-![alt text](./wireframe.png)
+![alt text](./ui.png)
