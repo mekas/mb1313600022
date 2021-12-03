@@ -13,4 +13,4 @@ Quran Saku is an application where users can recite the Qur'an with a translatio
 - User can listen Qur'an.
 
 # Mockups
-![Mockup](https://github.com/mekas/mb1313600022/blob/master/1313618033/mockup.png)
+
