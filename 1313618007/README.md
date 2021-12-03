@@ -17,4 +17,4 @@ I want to make a noise exhaust detection application, which makes it possible fo
 
 ## Mockups
 
-Coming Soon
+![Mockup](./mockup.png)
