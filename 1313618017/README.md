@@ -6,9 +6,10 @@ Creative Ideas for waste is an application that displays various information and
 * People who likes to make things from used or waste goods
 
 ### Advance Topic
-
+* REST API
 
 ### Features
-
+* Liked
+* Bookmark
 
 ### Mockup
