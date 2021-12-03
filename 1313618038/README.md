@@ -14,4 +14,4 @@ I want to make an app about PC game reviews for users who want to find the best 
 - user can see gameplay video
 
 ## Mockup
-![]()
+![](https://github.com/mekas/mb1313600022/blob/master/1313618038/mockup.png)
