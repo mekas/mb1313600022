@@ -8,6 +8,7 @@ IBSchool app is an application  that displays various lists of Islamic boarding 
 * REST API
 
 ### Features
+* List of islamic boarding school
 * Liked
 * Bookmark
 * Search
