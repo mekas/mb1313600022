@@ -16,3 +16,4 @@ Left-Store is an application where users can find information of local shoes in 
 - Add to Favourite
 
 ## Mockup
+![Mockup](https://github.com/mekas/mb1313600022/blob/master/1313618036/mock.png)
