@@ -1,18 +1,15 @@
-## ClimbInfo
-I want to make a mountain climbing info application, in which there is a list of mountain information, then what equipment to bring if you want to climb and others.
+## fish lover
+I want to make applications of various kinds of ornamental fish and how to care for them.
 
 ## Target Segment
-- people who want to climb mountains in Indonesia
-- people who only see mountains that can be climbed
-- People who are looking for references for climbing
+someone who likes and wants to keep fish
 
 ## Advance Topics
 - Rest API
-- Google Map
 
 ## Features
-- list of mountains that can be climbed in Indonesia
-- detailed information of each mountain (maps included)
-- equipment to bring if you want to climb
+- list of ornamental fish
+- detailed information of each ornamental fish
+- how to care for ornamental fish
 
 ## Mockups
