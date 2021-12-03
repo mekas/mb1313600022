@@ -20,3 +20,5 @@ People usually forget things that he want to do. Some people usually remember th
 - Android Notification
 
 # Mock Up
+
+![alt text](https://github.com/mekas/mb1313600022/edit/master/1313618018/Capture2.png?raw=true)
