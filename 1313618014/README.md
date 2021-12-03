@@ -8,7 +8,7 @@ Football fans
 
 ## Advance Topics
 
-- REST request
+- REST API
 
 ## Features
 
@@ -17,3 +17,6 @@ Football fans
 - User can see team ranking in favorite league
 
 ## Mockups
+![Splash Screen](https://github.com/mekas/mb1313600022/blob/master/1313618014/Splash-Screen.png)
+![Live Score](https://github.com/mekas/mb1313600022/blob/master/1313618014/Live-Score.png)
+![League Standings](https://github.com/mekas/mb1313600022/blob/master/1313618014/League.png)
