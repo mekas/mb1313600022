@@ -14,15 +14,43 @@ I want to create an calculator application that specifically calculates taxes in
 - User can see the calculation of the BPTHB tax given to him along with an explanation of the calculation of the tax
 - User can see the calculation of the restaurant tax given to him
 - User can see the calculation of the Hotel tax given to him
-- user can see the calculation history
+- User can view information about taxes
 
-### Wireframe
+### Mockups
 
+<h3 align="center">Splash Screen & Home Screen</h3>
 <p align="center">
-<img src="./" alt="wireframe Tax Calculator">
+  <img src="https://github.com/mekas/mb1313600022/blob/master/1313618015/mockup/Splash.png" height="600" alt="wireframe Tax Calculator">
+  <img src="https://github.com/mekas/mb1313600022/blob/master/1313618015/mockup/Home.png" height="600" alt="wireframe Tax Calculator">
 </p>
 
-figma :
+<br>
+<h3 align="center">PBB Screen</h3>
+<p align="center">
+  <img src="https://github.com/mekas/mb1313600022/blob/master/1313618015/mockup/pbb1.png" height="600" alt="wireframe Tax Calculator">
+  <img src="https://github.com/mekas/mb1313600022/blob/master/1313618015/mockup/pbb2.png" height="600" alt="wireframe Tax Calculator">
+</p>
+
+<br>
+<h3 align="center">BPHTB Screen</h3>
+<p align="center">
+  <img src="https://github.com/mekas/mb1313600022/blob/master/1313618015/mockup/bphtb1.png" height="600" alt="wireframe Tax Calculator">
+  <img src="https://github.com/mekas/mb1313600022/blob/master/1313618015/mockup/bphtb2.png" height="600" alt="wireframe Tax Calculator">
+  <img src="https://github.com/mekas/mb1313600022/blob/master/1313618015/mockup/bphtb3.png" height="600" alt="wireframe Tax Calculator">
+</p>
+
+<br>
+<h3 align="center">Restaurant Screen</h3>
+<p align="center">
+  <img src="https://github.com/mekas/mb1313600022/blob/master/1313618015/mockup/restoran.png" height="600" alt="wireframe Tax Calculator">
+</p>
+
+<br>
+<h3 align="center">Hotel Screen</h3>
+<p align="center">
+  <img src="https://github.com/mekas/mb1313600022/blob/master/1313618015/mockup/hotel1.png" height="600" alt="wireframe Tax Calculator">
+  <img src="https://github.com/mekas/mb1313600022/blob/master/1313618015/mockup/hotel2.png" height="600" alt="wireframe Tax Calculator">
+</p>
 
 ## Contributors ##
 

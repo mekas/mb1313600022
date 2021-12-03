@@ -12,7 +12,7 @@ This repo is used to submit proposal for Final Project mobile computing course t
 I want to create an calculator application that specifically calculates taxes based on local tax regulations in Indonesia
 
 ### 1313618030 (Farhan Herdian Pradana)
-I want to create anime database app so that anime watchers can find anime, give score, review, and add favorite
+I want to create anime database app so that anime watchers can find anime, give score, and add favorite
 
 ### 1313618008 (Lazuardy Khatulistiwa)
 I want to create an application that will show articles about programming tutorial in Indonesian
@@ -66,7 +66,7 @@ I want to make an application that displays information on the availability of r
 I want to make health care place search app
 
 ### 1313618036 (Khulaifi Alkatsiri)
-I want to make an application that displays information about local shoe product in indonesia
+I want to make an application to do list(notes) which helps users to be more productive
 
 ### 1313618013 (Zaidan Pratama)
 I want to make an application for people to scan the url so that they know the url is safe or not and the app also provides top recents phising links

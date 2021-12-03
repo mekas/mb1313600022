@@ -1,6 +1,6 @@
 # Lovecraft Archive
 
-I wish to create an app using flutter where users can read most of Lovecraft's recorded "cosmic horror" literatures.
+I wish to create an app using flutter where users can read most of Lovecraft's archived "cosmic horror" literatures.
 
 # Target Users
 
@@ -11,15 +11,14 @@ I wish to create an app using flutter where users can read most of Lovecraft's r
 # Advanced Topic
 
 - Webview
-- Remote Database
 
 # Features
 
 - An archive of Lovecraft's literatures.
 - Anonymized read counter.
-- Table of "top 5 most read last week".
-- Links to various fanworks and/or topics related to the "cosmic horror" genre (verified only).
+- Table of "top 5 most read yesterday".
+- Webview to various fanworks and/or topics related to the "cosmic horror" genre (verified only).
 
 # Design / Mockup
 
-Coming soon
+![alt text](./wireframe.png)
