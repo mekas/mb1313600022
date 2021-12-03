@@ -8,4 +8,4 @@ User who interest to cooking, moms, etc
 - user can see food recipes
 - user can see recipes beside on ingredient
 ## Mockups
---coming soon--
+![mockup](https://github.com/mekas/mb1313600022/blob/master/1313618009/Mockup%20Happy%20cooking/mockup.png)
