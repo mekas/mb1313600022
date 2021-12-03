@@ -13,7 +13,7 @@ People usually forget things that he want to do. Some people usually remember th
 - To Do Task List.
 - Add Task.
 - Mark task as done.
-- Clear all done tasks.
+- Delete tasks.
 
 # Advance Topic
 
