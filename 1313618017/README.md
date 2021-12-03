@@ -1,9 +1,8 @@
-### Creative Ideas for Waste APP
-Creative Ideas for waste is an application that displays various information and instructions on how to recycle or use waste to be reused into something useful
+### IBSchool App
+IBSchool app is an application  that displays various lists of Islamic boarding schools in Indonesia
 
 ### Target Segment
-* People who cares about the environment
-* People who likes to make things from used or waste goods
+* People someone who wants to go to boarding school
 
 ### Advance Topic
 * REST API
@@ -11,5 +10,7 @@ Creative Ideas for waste is an application that displays various information and
 ### Features
 * Liked
 * Bookmark
+* Search
 
 ### Mockup
+Coming Soon
