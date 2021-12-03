@@ -1,8 +1,8 @@
-#TO DO MANAGER (TO BE EDITED)
+# TO DO MANAGER (TO BE EDITED)
 
 People usually forget things that he want to do. Some people usually remember that he/she have things to do, but forget what is it. This app can help them to ensure them remember their task, and they can finish all their task happily.
 
-#Target Users
+# Target Users
 
 - Busy People
 - people who like to forget
@@ -15,8 +15,8 @@ People usually forget things that he want to do. Some people usually remember th
 - Mark task as done.
 - Clear all done tasks.
 
-#Advance Topic
+# Advance Topic
 
 - Android Notification
 
-#Mock Up
+# Mock Up
