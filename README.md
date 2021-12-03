@@ -81,4 +81,4 @@ I want to create an application that can display information about Marvel's libr
 I want to make a noise exhaust detection application, which makes it possible for the user to know the exhaust noise in db units
 
 ### 1313618025 (Gian Chiesa Maghriza)
-I want to make Food and Drink Recipe app various kinds of food and drink category
+I want to make Find Your Cat Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
