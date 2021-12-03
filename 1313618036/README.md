@@ -1,5 +1,5 @@
 ## Left-Store
-Left-Store is an application where users can find information on local shoes in Indonesia
+Left-Store is an application where users can find information of local shoes in Indonesia
 
 ## Target Segment
 Users who like local shoes
