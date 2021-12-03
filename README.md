@@ -66,7 +66,7 @@ I want to make an application that displays information on the availability of r
 I want to make health care place search app
 
 ### 1313618036 (Khulaifi Alkatsiri)
-I want to make an application that displays information about local shoe product in indonesia
+I want to make an application to do list(notes) which helps users to be more productive
 
 ### 1313618013 (Zaidan Pratama)
 I want to make an application for people to scan the url so that they know the url is safe or not and the app also provides top recents phising links
