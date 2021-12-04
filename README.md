@@ -80,7 +80,7 @@ Please edit your description in abstract directory after revising the feedbacks 
 I want to make an workout reminder that will show workout movement and tips n trick
 
 ### 1313618032 (Aldian Asmara)
-I want to make kanji flashcard and quiz app to help people learn japanese
+I want to make jouyou kanji flashcard and quiz app to help people learn japanese
 
 ### 1313618018 (Dhimas Amri Pratama)
 I want to make a to do list app that will help us manage our task.
