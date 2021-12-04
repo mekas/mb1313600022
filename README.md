@@ -122,7 +122,7 @@ Comment: Well the license for Kanji Stroke is MIT. Be sure to attributed to the 
 I want to make a to do list app that will help us manage our task.
 
 Comment:
-Please be aware about 50% of submitted last course apps on Playstore was due to cloning. Google Began implementing this policy in recent years. Anyway, if your proposal be rejected by Google later I just need to give your final project low score. 
+Please be aware about 50% of submitted last course apps on Playstore was rejected due to cloning. Google Began implementing this policy in recent years. Anyway, if your proposal be rejected by Google later I just need to give your final project low score. 
 
 ### 1313618038 (Fajar Nurrahman)
 I want to make an app about PC game reviews for users who want to find the best games and join the community
