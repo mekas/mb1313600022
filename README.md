@@ -182,8 +182,6 @@ I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorit
 
 Comment: I said this before in Class, I reject proposal which clone another students idea by chaning the content. List, detail are features of assignment 1. Whereas search item been taken as another student. But you listed share, I can accept this except, no further explanation given plus no mockup. 
 
-Reply : I'm sorry sir for the point that clone another student idea by changing the content since we commit at the same hour,if i may ask should i change the main topic or continue with adding and explain any new feature sir ?
-
 ### 1313618026 (Rachel Haryawan) Pending
 I want to make an application that can display weekly meal planner.
 
