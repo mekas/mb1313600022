@@ -1,0 +1,26 @@
+## Jouoyou Kanji
+
+I want to make jouyou kanji flashcard and quiz app to help people learn japanese
+
+## target segment
+
+people who intersted in learning japanese 
+
+## data sources
+
+https://github.com/davidluzgouveia/kanji-data
+
+## advance topics
+
+webview: kanji details from jisho.org webpage
+
+## features
+
+- users can learn kanji by grade level through flashcard
+- users can take quizzes to test their abilities
+- list kanji by grade level
+
+## mockups
+
+tba
+
