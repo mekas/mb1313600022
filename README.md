@@ -106,8 +106,10 @@ I want to make an application for people to scan the url so that they know the u
 
 Feedback: Add mockup for report page. 
 
-### 1313618014 (Muhammad Ardani)
+### 1313618014 (Muhammad Ardani) Pending
 I want to make an application that will show football leagues & cups include livescore etc.
+
+Feedback: State if you are using Android Studio. 
 
 ### 1313618002 (Nilatil Moena) Pending
 I want to create an application that can display information about Marvel's library of comic
