@@ -24,6 +24,10 @@ Reasons:
 1. You're listing scoring, but I can't see any on the mockups.
 2. Complete REST endpoint source & information. 
 
+Answer:
+1. I have updated scoring mockup
+2. I use kitsu API, but i will wrap it in my own backend API to support add login, register, add favorite, and scoring features
+
 ### 1313618008 (Lazuardy Khatulistiwa) Pending
 I want to create an application that will show articles about programming tutorial in Indonesian
 
