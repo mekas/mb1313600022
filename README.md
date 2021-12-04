@@ -81,7 +81,7 @@ I want to make an app that will show us information about nutrition values of fr
 
 Feedback: Please complete REST endpoint info. 
 
-Answer : I will fruityvice API, I've updated in README
+Answer : I will use fruityvice API, I've updated API link in README
 
 ### 1313618004 (Tantyo N T) Accepted
 I wish to create an app where users can read most of Lovecraft's recorded cosmic horror literatures.
