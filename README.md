@@ -8,8 +8,10 @@ This repo is used to submit proposal for Final Project mobile computing course t
 4. The complete proposal must also be named README.md inside your personal own directory
 5. The complete proposal contains: Project Name, Explanation of the Project, Target segment, what the app featured, employed advanced android concept & mockups. 
 
-### 1313618015 (Muhammad Bagas Pradana)
+### 1313618015 (Muhammad Bagas Pradana) Pending
 I want to create an calculator application that specifically calculates taxes based on local tax regulations in Indonesia
+
+Reason: I can see you'll be creating calculator, but I can't see for what purpose the WebView be used?
 
 ### 1313618030 (Farhan Herdian Pradana)
 I want to create anime database app so that anime watchers can find anime, give score, and add favorite
