@@ -124,8 +124,10 @@ I want to make health care place search app
 
 Reason: You're getting close, please fulfill REST Endpoint information in the abstract. And since you don't state which technology you'll be using, I assume you're using Android Studio.  
 
-### 1313618036 (Khulaifi Alkatsiri)
+### 1313618036 (Khulaifi Alkatsiri) Pending
 I want to make an application information about local shoe products in indonesia
+
+Reason: Complete REST endpoint & WebVIew source & information.
 
 ### 1313618013 (Zaidan Pratama) Pending
 I want to make an application for people to scan the url so that they know the url is safe or not and the app also provides top recents phising links
