@@ -101,8 +101,10 @@ Reason: You're getting close, please fulfill REST Endpoint information in the ab
 ### 1313618036 (Khulaifi Alkatsiri)
 I want to make an application information about local shoe products in indonesia
 
-### 1313618013 (Zaidan Pratama)
+### 1313618013 (Zaidan Pratama) Pending
 I want to make an application for people to scan the url so that they know the url is safe or not and the app also provides top recents phising links
+
+Feedback: Add mockup for report page. 
 
 ### 1313618014 (Muhammad Ardani)
 I want to make an application that will show football leagues & cups include livescore etc.
