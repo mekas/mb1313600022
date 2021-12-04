@@ -12,5 +12,9 @@ Quran Saku is an application where users can recite the Qur'an with a translatio
 - User can recite Qur'an with a translation in Indonesia.
 - User can listen Qur'an.
 
+# API (Data Source)
+Quran API ID
+Link: https://github.com/renomureza/quran-api-id (Licensed under MIT)
+
 # Mockups
 ![Mockup](https://github.com/mekas/mb1313600022/blob/master/1313618033/mockup.png)
