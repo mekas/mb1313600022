@@ -11,4 +11,3 @@ I want to make an application that can show peapole destination and what they ca
 
 ## Advance topic
 - Rest API
-- Maps
