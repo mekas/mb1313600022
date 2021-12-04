@@ -16,4 +16,8 @@ I want to make an application that can display a list of hospitals from all over
 - Google Map
 
 ## Mockup
-Coming Soon
+<p align="center">
+  <img height="500" src="Home.jpeg">
+  &nbsp &nbsp
+  <img height="500" src="Detail.jpeg">
+</p>
