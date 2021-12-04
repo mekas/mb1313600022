@@ -38,8 +38,10 @@ I want to make an app that will show movie trailers, movie details and add bookm
 ### 1313618017 (Zakiyah Hamidah)
 I want to make an app that will show us information about nutrition values of fruits
 
-### 1313618004 (Tantyo N T)
+### 1313618004 (Tantyo N T) Pending
 I wish to create an app where users can read most of Lovecraft's recorded cosmic horror literatures.
+
+Reason: Clarity of publishing Lovecracft literature. State if permission be allowed for anyone to publish.  
 
 ### 1313618005 (Diyah Anggraeny)
 I want to make a dictionary app where users can search the meaning of words
