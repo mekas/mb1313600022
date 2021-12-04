@@ -10,9 +10,13 @@ people who intersted in learning japanese
 
 https://github.com/davidluzgouveia/kanji-data
 
-## advance topics
+## advanced topics
 
 webview: kanji details from jisho.org webpage
+
+## tech stacks
+
+- react native
 
 ## features
 
