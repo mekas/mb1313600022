@@ -10,6 +10,10 @@ I want to create anime database app so that anime watchers can finding anime, gi
 
 - Rest request
 
+## API Used
+
+https://kitsu.docs.apiary.io/
+
 ## Features
 
 - User can see list of anime
@@ -18,7 +22,7 @@ I want to create anime database app so that anime watchers can finding anime, gi
 
 ## Mockups
 
-![](https://github.com/mekas/mb1313600022/blob/master/1313618030/MyAnimeDBMOckup.jpg)
+![](https://github.com/mekas/mb1313600022/blob/master/1313618030/MyAnimeDBMockup.jpg)
 
 ## Technology Used
 
