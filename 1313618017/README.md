@@ -1,14 +1,16 @@
-### IBSchool App
-IBSchool app is an application  that displays various lists of Islamic boarding schools in Indonesia
+### Fruitin App
+nuty is an application that displays the nutrition of various fruits. This application will help users to find some of the nutritional content in the fruit.
 
 ### Target Segment
-* Users who wants to go to boarding school
+* Users in general
+* Vegetarian users
+* Users who have a diet program
 
 ### Advance Topic
 * REST API
 
 ### Features
-* List of islamic boarding school
+* List of fruits
 * Liked
 * Bookmark
 * Search
