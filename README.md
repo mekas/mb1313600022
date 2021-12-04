@@ -105,7 +105,9 @@ Reason: As Far as I Know, Marvel license the information for their franchise, th
 ### 1313618007 (Andri Rahmanto) Pending
 I want to make a noise exhaust detection application, which makes it possible for the user to know the exhaust noise in db units
 
-Comment: Please correct the link to check exhaust noise regulation.   
+Comment:
+1. Please correct the link to check exhaust noise regulation.   
+2. Did I read it correct, your app only read sound level?. then do nothing. Just forward user to the information. Then what's the use of the sound noise level?
 
 ### 1313618021 (Gian Chiesa Maghriza)
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
