@@ -14,8 +14,10 @@ I want to create an calculator application that specifically calculates taxes ba
 ### 1313618030 (Farhan Herdian Pradana)
 I want to create anime database app so that anime watchers can find anime, give score, and add favorite
 
-### 1313618008 (Lazuardy Khatulistiwa)
+### 1313618008 (Lazuardy Khatulistiwa) Pending
 I want to create an application that will show articles about programming tutorial in Indonesian
+
+Reason: Typicall website content publishing rights hold exclusively by their maker. Please give if you receive permission properly. 
 
 ### 1313618009 (Novitasari)
 I want to create an application that will show food recipes
@@ -108,6 +110,7 @@ I want to make a noise exhaust detection application, which makes it possible fo
 Comment:
 1. Please correct the link to check exhaust noise regulation.   
 2. Did I read it correct, your app only read sound level?. then do nothing. Just forward user to the information. Then what's the use of the sound noise level?
+3. Too simple.
 
 ### 1313618021 (Gian Chiesa Maghriza)
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
