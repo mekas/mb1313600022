@@ -53,8 +53,10 @@ I want to make an app that gives notification reminder to upcoming movies with d
 
 Reason: The features are too similar with Assignment 1, except the info going to be taken from REST. Please add another distinctive feature, one is suffice. Furtermore, please complete REST endpoint source in the abstract. 
 
-### 1313618025 (Cindi Tri Fitikasari)
+### 1313618025 (Cindi Tri Fitikasari) Pending
 I want to make book and novels review app
+
+Reason: Mockup seems incomplete. 
 
 ### 1313618016 (Ridwan Syah) Pending
 I want to make an app that will show movie trailers, movie details and add bookmarks
