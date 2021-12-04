@@ -38,7 +38,7 @@ I want to make an app that will show movie trailers, movie details and add bookm
 ### 1313618017 (Zakiyah Hamidah)
 I want to make an app that will show us information about nutrition values of fruits
 
-### 1313618004 (Tantyo N T) Pending
+### 1313618004 (Tantyo N T) Accepted
 I wish to create an app where users can read most of Lovecraft's recorded cosmic horror literatures.
 
 Reason: Clarity of publishing Lovecracft literature. State if permission be allowed for anyone to publish.  
@@ -48,6 +48,8 @@ Reply:
 Short answer: Yes, **everyone has permission** to share his works and create derivations of his works. Not claim his works, only sharing and derivation.
 
 Long answer: See "Copyright Issue" within personal project directory's README.md
+
+Please state in the abstract, the source of the literature you'll be using.  
 
 ### 1313618005 (Diyah Anggraeny) Accepted with Condition
 I want to make a dictionary app where users can search the meaning of words
