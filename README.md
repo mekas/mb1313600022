@@ -91,8 +91,10 @@ I want to make an app about PC game reviews for users who want to find the best 
 ### 1313618037 (Adi Rahman)
 I want to make an application that displays information on the availability of room or bed capacity in a hospital
 
-### 1313618010 (Muhammad Asyraf Amanullah) 
+### 1313618010 (Muhammad Asyraf Amanullah) Pending
 I want to make health care place search app
+
+Reason: You're getting close, please fulfill REST Endpoint information in the abstract. And since you don't state which technology you'll be using, I assume you're using Android Studio.  
 
 ### 1313618036 (Khulaifi Alkatsiri)
 I want to make an application information about local shoe products in indonesia
