@@ -102,8 +102,10 @@ I want to create an application that can display information about Marvel's libr
 
 Reason: As Far as I Know, Marvel license the information for their franchise, the publishing rights. Can you check to Marvel whether the information of its franchise free to publish. If not, Google will reject it later, when you publish the App. 
 
-### 1313618007 (Andri Rahmanto)
+### 1313618007 (Andri Rahmanto) Pending
 I want to make a noise exhaust detection application, which makes it possible for the user to know the exhaust noise in db units
+
+Comment: Please correct the link to check exhaust noise regulation.   
 
 ### 1313618021 (Gian Chiesa Maghriza)
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
