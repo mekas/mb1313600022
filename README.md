@@ -104,7 +104,7 @@ I want to make a dictionary app where users can search the meaning of words
 Condition: Beware your apps is too similar with existing similar apps on Android. If your idea don't have distinction and merely clone others. Google will probably reject it later when you publish to them.  
 
 ### 1313618001 (Afny) Pending
-I want to create an app of different types of Aquarium ornamental fish, how to care for them, can share them and add to favorites.
+I want to make an ornamental fish application along with details and how to care.
 
 Conditions:
 1. Develop with Android
