@@ -17,7 +17,8 @@ Rest Request
 [MockUp](https://www.figma.com/file/Ot6NxjfLgW74iFswjCxSe2/Untitled?node-id=0%3A1)
 
 ## Screenshots
-![Screenshot 1](https://github.com/ridwans99/homework3-chat-fcm/blob/main/1.PNG)
-![Screenshot 2](https://github.com/ridwans99/homework3-chat-fcm/blob/main/2.PNG)
-![Screenshot 3](https://github.com/ridwans99/homework3-chat-fcm/blob/main/3.PNG)
-![Screenshot 4](https://github.com/ridwans99/homework3-chat-fcm/blob/main/4.PNG)
+![Screenshot 1](https://github.com/mekas/mb1313600022/blob/master/1313618016/login.PNG)
+![Screenshot 2](https://github.com/mekas/mb1313600022/blob/master/1313618016/home.PNG)
+![Screenshot 3](https://github.com/mekas/mb1313600022/blob/master/1313618016/detail.PNG)
+![Screenshot 4](https://github.com/mekas/mb1313600022/blob/master/1313618016/bookmark.PNG)
+![Screenshot 4](https://github.com/mekas/mb1313600022/blob/master/1313618016/profil.PNG)
