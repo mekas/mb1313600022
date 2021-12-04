@@ -95,8 +95,11 @@ I want to make an workout reminder that will show workout movement and tips n tr
 ### 1313618032 (Aldian Asmara)
 I want to make jouyou kanji flashcard and quiz app to help people learn japanese
 
-### 1313618018 (Dhimas Amri Pratama)
+### 1313618018 (Dhimas Amri Pratama) Accepted with condition
 I want to make a to do list app that will help us manage our task.
+
+Comment:
+Please be aware about 50% of submitted last course apps on Playstore was due to cloning. Google Began implementing this policy in recent years. Anyway, if your proposal be rejected by Google later I just need to give your final project low score. 
 
 ### 1313618038 (Fajar Nurrahman)
 I want to make an app about PC game reviews for users who want to find the best games and join the community
