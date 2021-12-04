@@ -114,7 +114,7 @@ Conditions:
 
 Please edit your description in abstract directory after revising the feedbacks above. 
 
-Reply: Sir I've updated the description, added some features, and api links
+Reply: I've updated the description, added some features, and api links
 
 ### 1313618023 (Mushab Utsmani Ibrahim) Pending
 I want to make an workout reminder that will show workout movement and tips n trick
