@@ -1,5 +1,5 @@
 ## fish lover
-I want to make applications of various kinds of Aquarium ornamental fish and how to care for them.
+I want to create an app of different types of Aquarium ornamental fish, how to care for them, can share them and add to favorites.
 
 ## Target Segment
 someone who likes and wants to keep fish
