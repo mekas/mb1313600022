@@ -100,9 +100,11 @@ Please edit your description in abstract directory after revising the feedbacks 
 ### 1313618023 (Mushab Utsmani Ibrahim)
 I want to make an workout reminder that will show workout movement and tips n trick
 
-### 1313618032 (Aldian Asmara)
+### 1313618032 (Aldian Asmara) Accepted
 I want to make jouyou kanji flashcard and quiz app to help people learn japanese
 
+Comment: Well the license for Kanji Stroke is MIT. Be sure to attributed to the author later when you publish to Playstore. Least minimum respect you can given to him.    
+ 
 ### 1313618018 (Dhimas Amri Pratama) Accepted with condition
 I want to make a to do list app that will help us manage our task.
 
