@@ -13,7 +13,7 @@ I want to make an application that can display a list of hospitals from all over
 
 ## Advance topic
 - Rest API
-- Google Map
+- Google Maps
 
 ## Mockup
 <p align="center">
