@@ -22,4 +22,4 @@ Neko Sekai is Mobile Apps that user can find their favorite cat info also if use
 
 # Mockups
 
-![NekoSekai](./Neko_Sekai_Mockup.png)
+![NekoSekai](./New_Neko_Sekai_Mockup.png)
