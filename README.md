@@ -13,6 +13,10 @@ I want to create an calculator application that specifically calculates taxes ba
 
 Reason: I can see you'll be creating calculator, but I can't see for what purpose the WebView be used?
 
+Reply :
+
+I added a WebView to provide additional information regarding how the tax is calculated from a trusted source such as the law or the official website of the tax agency. The next reason is that the webview can serve to provide other education to users regarding matters relating to taxes that are being discussed.
+
 ### 1313618030 (Farhan Herdian Pradana) Pending
 I want to create anime database app so that anime watchers can find anime, give score, and add favorite
 
@@ -97,8 +101,11 @@ I want to make an workout reminder that will show workout movement and tips n tr
 ### 1313618032 (Aldian Asmara)
 I want to make jouyou kanji flashcard and quiz app to help people learn japanese
 
-### 1313618018 (Dhimas Amri Pratama)
+### 1313618018 (Dhimas Amri Pratama) Accepted with condition
 I want to make a to do list app that will help us manage our task.
+
+Comment:
+Please be aware about 50% of submitted last course apps on Playstore was due to cloning. Google Began implementing this policy in recent years. Anyway, if your proposal be rejected by Google later I just need to give your final project low score. 
 
 ### 1313618038 (Fajar Nurrahman)
 I want to make an app about PC game reviews for users who want to find the best games and join the community
@@ -137,8 +144,10 @@ Comment:
 2. Did I read it correct, your app only read sound level?. then do nothing. Just forward user to the information. Then what's the use of the sound noise level?
 3. Too simple.
 
-### 1313618021 (Gian Chiesa Maghriza)
+### 1313618021 (Gian Chiesa Maghriza) Pending
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
+
+Comment: I said this before in Class, I reject proposal which clone another students idea by chaning the content. List, detail are features of assignment 1. Whereas search item been taken as another student. But you listed share, I can accept this except, no further explanation given plus no mockup. 
 
 ### 1313618026 (Rachel Haryawan)
 I want to make an application that can display weekly meal planner.
