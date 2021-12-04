@@ -24,4 +24,17 @@ BadmintVent adalah aplikasi untuk mempublish lomba bulutangkis.
 
 # Mockups
 
-Ada di folder MockUp
+- Halaman Index <br />
+![Halaman Index](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp Application Lomba/halaman index.png)
+
+- Drawer Before Login <br />
+![Drawer Before Login](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp Application Lomba/Drawer Before Login.png)
+
+- Drawer After Login <br />
+![Drawer After Login](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp Application Lomba/Drawer After Login.png)
+
+- Halaman Detail Event <br />
+![Halaman Detail Event](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp Application Lomba/Halaman Detail Event.png)
+
+- Halaman Membuat Event <br />
+![Halaman Membuat Event](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp Application Lomba/Halaman Membuat Event.png)
