@@ -13,8 +13,12 @@ I want to create an calculator application that specifically calculates taxes ba
 
 Reason: I can see you'll be creating calculator, but I can't see for what purpose the WebView be used?
 
-### 1313618030 (Farhan Herdian Pradana)
+### 1313618030 (Farhan Herdian Pradana) Pending
 I want to create anime database app so that anime watchers can find anime, give score, and add favorite
+
+Reasons:
+1. You're listing scoring, but I can't see any on the mockups.
+2. Complete REST endpoint source & information. 
 
 ### 1313618008 (Lazuardy Khatulistiwa) Pending
 I want to create an application that will show articles about programming tutorial in Indonesian
@@ -63,7 +67,7 @@ Short answer: Yes, **everyone has permission** to share his works and create der
 
 Long answer: See "Copyright Issue" within personal project directory's README.md
 
-Please state in the abstract, the source of the literature you'll be using.  
+Please complete the source of Lovecraft literature.   
 
 ### 1313618005 (Diyah Anggraeny) Accepted with Condition
 I want to make a dictionary app where users can search the meaning of words
