@@ -149,6 +149,8 @@ I want to make health care place search app
 
 Reason: You're getting close, please fulfill REST Endpoint information in the abstract. And since you don't state which technology you'll be using, I assume you're using Android Studio.  
 
+Reply : I've updated in my abstract sir
+
 ### 1313618036 (Khulaifi Alkatsiri) Pending
 I want to make an application information about local shoe products in indonesia
 
