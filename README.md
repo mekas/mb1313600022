@@ -108,8 +108,10 @@ Conditions:
 
 Please edit your description in abstract directory after revising the feedbacks above. 
 
-### 1313618023 (Mushab Utsmani Ibrahim)
+### 1313618023 (Mushab Utsmani Ibrahim) Pending
 I want to make an workout reminder that will show workout movement and tips n trick
+
+Decision: I'm more inclined to reject this idea based on primarly it is better suited released as ebook instead of app. What's the interaction aside from navigation?
 
 ### 1313618032 (Aldian Asmara) Accepted
 I want to make jouyou kanji flashcard and quiz app to help people learn japanese
