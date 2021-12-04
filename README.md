@@ -50,11 +50,15 @@ Reason: The features are too similar with Assignment 1, except the info going to
 ### 1313618025 (Cindi Tri Fitikasari)
 I want to make book and novels review app
 
-### 1313618016 (Ridwan Syah)
+### 1313618016 (Ridwan Syah) Pending
 I want to make an app that will show movie trailers, movie details and add bookmarks
 
-### 1313618017 (Zakiyah Hamidah)
+Feedback: Please create a proper abstract. 
+
+### 1313618017 (Zakiyah Hamidah) Pending
 I want to make an app that will show us information about nutrition values of fruits
+
+Feedback: Please complete REST endpoint info. 
 
 ### 1313618004 (Tantyo N T) Accepted
 I wish to create an app where users can read most of Lovecraft's recorded cosmic horror literatures.
