@@ -13,6 +13,10 @@ I want to create an calculator application that specifically calculates taxes ba
 
 Reason: I can see you'll be creating calculator, but I can't see for what purpose the WebView be used?
 
+Reply :
+
+I added a WebView to provide additional information regarding how the tax is calculated from a trusted source such as the law or the official website of the tax agency. The next reason is that the webview can serve to provide other education to users regarding matters relating to taxes that are being discussed.
+
 ### 1313618030 (Farhan Herdian Pradana) Pending
 I want to create anime database app so that anime watchers can find anime, give score, and add favorite
 
