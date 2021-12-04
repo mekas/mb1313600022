@@ -180,7 +180,9 @@ please check for updates in my directory
 ### 1313618021 (Gian Chiesa Maghriza) Pending
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
 
-Comment: I said this before in Class, I reject proposal which clone another students idea by chaning the content. List, detail are features of assignment 1. Whereas search item been taken as another student. But you listed share, I can accept this except, no further explanation given plus no mockup. 
+Comment: I said this before in Class, I reject proposal which clone another students idea by chaning the content. List, detail are features of assignment 1. Whereas search item been taken as another student. But you listed share, I can accept this except, no further explanation given plus no mockup.
+
+Reply : I have updated my proposal and explain my share feature, also update mock too sir.
 
 ### 1313618026 (Rachel Haryawan) Pending
 I want to make an application that can display weekly meal planner.
