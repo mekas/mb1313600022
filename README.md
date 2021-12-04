@@ -44,8 +44,15 @@ I wish to create an app where users can read most of Lovecraft's recorded cosmic
 ### 1313618005 (Diyah Anggraeny)
 I want to make a dictionary app where users can search the meaning of words
 
-### 1313618001 (Afny)
+### 1313618001 (Afny) Accepted with Condition
 I want to make an ornamental fish application along with the details and how to care for it
+
+Conditions:
+1. Develop with Android
+2. Constraint of Ornamental fish isn't too clear
+3. You are taking the information from where?, Check the permission of REST endpoint. Since later, Google will check it when you do upload to Playstore. 
+
+Please edit your description in abstract directory after revising the feedbacks above. 
 
 ### 1313618023 (Mushab Utsmani Ibrahim)
 I want to make an workout reminder that will show workout movement and tips n trick
