@@ -124,3 +124,6 @@ I want to make an application that can display weekly meal planner.
 
 ### 1313618029 (Resa Fajar Sukma)
 I want to make an application that can help me and my friends find badminton competitions.
+
+### 1313618022 (Yusriizal Piliyang)
+I want to make music player app
