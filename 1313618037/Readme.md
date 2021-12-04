@@ -20,6 +20,6 @@ Android Studio (Java)
 
 ## Mockup
 <p align="center">
-  <img height="500" src="Mockup.JPG">
+  <img height="500" src="Mockup.png">
   &nbsp &nbsp
 </p>
