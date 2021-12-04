@@ -43,8 +43,10 @@ I wish to create an app where users can read most of Lovecraft's recorded cosmic
 
 Reason: Clarity of publishing Lovecracft literature. State if permission be allowed for anyone to publish.  
 
-### 1313618005 (Diyah Anggraeny)
+### 1313618005 (Diyah Anggraeny) Accepted with Condition
 I want to make a dictionary app where users can search the meaning of words
+
+Condition: Beware your apps is too similar with existing similar apps on Android. If your idea don't have distinction and merely clone others. Google will probably reject it later when you publish to them.  
 
 ### 1313618001 (Afny) Accepted with Condition
 I want to make an ornamental fish application along with the details and how to care for it
