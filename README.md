@@ -36,8 +36,10 @@ Feedbacks:
 - Generally rejected, the base idea is too similar with Assignment 1 only change the content
 - Please add distinctive features unique to your app. 
 
-### 1313618012 (Fathimah Azzahra)
+### 1313618012 (Fathimah Azzahra) Pending
 I want to make an app that gives notification reminder to upcoming movies with details
+
+Reason: The features are too similar with Assignment 1, except the info going to be taken from REST. Please add another distinctive feature, one is suffice. Furtermore, please complete REST endpoint source in the abstract. 
 
 ### 1313618025 (Cindi Tri Fitikasari)
 I want to make book and novels review app
