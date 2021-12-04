@@ -189,8 +189,10 @@ I want to make an application that can display weekly meal planner.
 
 Feedback: Explain how you'll be picking new set of food recipees each week?
 
-### 1313618029 (Resa Fajar Sukma)
+### 1313618029 (Resa Fajar Sukma) Accepted
 I want to make an application that can help me and my friends find badminton competitions.
+
+Comment: Don't have any problem at all. But if I may, your mockup make things worse. Please design it better.  
 
 ### 1313618022 (Yusriizal Piliyang) Pending
 I want to make music player app
