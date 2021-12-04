@@ -192,8 +192,10 @@ Feedback: Explain how you'll be picking new set of food recipees each week?
 ### 1313618029 (Resa Fajar Sukma)
 I want to make an application that can help me and my friends find badminton competitions.
 
-### 1313618022 (Yusriizal Piliyang)
+### 1313618022 (Yusriizal Piliyang) Pending
 I want to make music player app
+
+Comments: Personally I don't have any problem with the idea. But are you really sure?, Rest is ideal for static data. Music if streamed online with any player typically played before waiting the data completely downloaded. With REST you need to wait until transmission is complete. This would affect user experience. 
 
 ### 1313618031 (Muhammad Izzat Ibrahim)
 I want to make an application that can show peapole destination and what they can see in Kepulauan Seribu. 
