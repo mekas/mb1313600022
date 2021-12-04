@@ -17,7 +17,7 @@ I want to create anime database app so that anime watchers can find anime, give 
 ### 1313618008 (Lazuardy Khatulistiwa) Pending
 I want to create an application that will show articles about programming tutorial in Indonesian
 
-Reason: Typicall website content publishing rights hold exclusively by their maker. Please give if you receive permission properly. 
+Reason: Typically website content publishing rights hold exclusively by their maker. Please give if you receive permission properly. 
 
 ### 1313618009 (Novitasari)
 I want to create an application that will show food recipes
