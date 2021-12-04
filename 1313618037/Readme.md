@@ -17,7 +17,7 @@ I want to make an application that can display a list of hospitals from all over
 
 ## Mockup
 <p align="center">
-  <img height="500" src="Home.jpeg">
+  <img height="500" src="Home.png">
   &nbsp &nbsp
-  <img height="500" src="Detail.jpeg">
+  <img height="500" src="Detail.png">
 </p>
