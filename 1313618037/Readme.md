@@ -15,6 +15,9 @@ I want to make an application that can display a list of hospitals from all over
 - Rest API
 - Google Maps
 
+## Technologu Used
+Android Studio (Java)
+
 ## Mockup
 <p align="center">
   <img height="500" src="Home.png">
