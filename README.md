@@ -19,8 +19,12 @@ I want to create an application that will show articles about programming tutori
 
 Reason: Typically website content publishing rights hold exclusively by their maker. Please give if you receive permission properly. 
 
-### 1313618009 (Novitasari)
+### 1313618009 (Novitasari) Pending
 I want to create an application that will show food recipes
+
+Feedbacks:
+- Why don't you just publish a book instead of writing app if the apps only shows information?
+- There are another reasons why I don't accept this. The recipee probably taken from copyrighted content & too many similar apps on Playstore. Whereas your proposal is the most simple one. 
 
 ### 1313618033 (Lisa Arief)
 I want to make an application that will display surahs and verses of the Qur'an with audio
