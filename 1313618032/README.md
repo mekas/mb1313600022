@@ -14,6 +14,10 @@ https://github.com/davidluzgouveia/kanji-data
 
 webview: kanji details from jisho.org webpage
 
+## tech stacks
+
+- react native
+
 ## features
 
 - users can learn kanji by grade level through flashcard

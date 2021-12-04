@@ -2,6 +2,9 @@
 
 I want to create an calculator application that specifically calculates taxes including PBB tax, BPHTB, Hotel tax, and Restaurant tax based on local tax regulations in Indonesia
 
+## Technology used
+- [x] React Native
+
 ## Target Segment
 - [x] users who work in the field of Indonesian taxation
 - [x] users who really wants to know the tax given to him on his assets 
