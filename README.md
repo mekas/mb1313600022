@@ -58,6 +58,8 @@ Feedbacks:
 - Generally rejected, the base idea is too similar with Assignment 1 only change the content
 - Please add distinctive features unique to your app. 
 
+Answer : I added some features like share and rating.
+
 ### 1313618012 (Fathimah Azzahra) Pending
 I want to make an app that gives notification reminder to upcoming movies with details
 
