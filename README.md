@@ -145,7 +145,9 @@ Reason: Complete REST endpoint & WebVIew source & information.
 ### 1313618013 (Zaidan Pratama) Pending
 I want to make an application for people to scan the url so that they know the url is safe or not and the app also provides top recents phising links
 
-Feedback: Add mockup for report page. 
+Feedback: Add mockup for report page.
+
+Answer: I added report page mockup sir. I want to show the report response as a Toast sir.
 
 ### 1313618014 (Muhammad Ardani) Pending
 I want to make an application that will show football leagues & cups include livescore etc.
