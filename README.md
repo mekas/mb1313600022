@@ -49,6 +49,8 @@ I want to make an application that will display surahs and verses of the Qur'an 
 
 Reason: Please complete REST Endpoint information. 
 
+Answer: In this project i will use Quran API ID (Licensed under MIT). I've also added REST Endpoint Information that i used in my own directory.
+
 ### 1313618006 (Agatha Marcella) Pending
 I like to propose an app that will display list of coffee shops with good ambience and can make people focus on work.
 
