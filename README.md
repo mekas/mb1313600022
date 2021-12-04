@@ -81,8 +81,10 @@ I want to make an application for people to scan the url so that they know the u
 ### 1313618014 (Muhammad Ardani)
 I want to make an application that will show football leagues & cups include livescore etc.
 
-### 1313618002 (Nilatil Moena)
+### 1313618002 (Nilatil Moena) Pending
 I want to create an application that can display information about Marvel's library of comic
+
+Reason: As Far as I Know, Marvel license the information for their franchise, the publishing rights. Can you check to Marvel whether the information of its franchise free to publish. If not, Google will reject it later, when you publish the App. 
 
 ### 1313618007 (Andri Rahmanto)
 I want to make a noise exhaust detection application, which makes it possible for the user to know the exhaust noise in db units
