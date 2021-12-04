@@ -11,9 +11,8 @@ Fruitin is an application that displays the nutrition of various fruits. This ap
 
 ### Features
 * List of fruits
-* Liked
 * Bookmark
 * Search
 
 ### Mockup
-Coming Soon
+![Image of Mockup](https://github.com/mekas/mb1313600022/blob/master/1313618017/mockup.png)
