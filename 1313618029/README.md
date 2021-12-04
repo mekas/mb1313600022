@@ -28,13 +28,13 @@ BadmintVent adalah aplikasi untuk mempublish lomba bulutangkis.
 ![Halaman Index](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp/halaman-index.PNG)
 
 - Drawer Before Login <br />
-![Drawer Before Login](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp/Drawer-Before-Login.png)
+![Drawer Before Login](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp/Drawer-Before-Login.PNG)
 
 - Drawer After Login <br />
-![Drawer After Login](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp/Drawer-After-Login.png)
+![Drawer After Login](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp/Drawer-After-Login.PNG)
 
 - Halaman Detail Event <br />
-![Halaman Detail Event](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp/Halaman-Detail-Event.png)
+![Halaman Detail Event](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp/Halaman-Detail-Event.PNG)
 
 - Halaman Membuat Event <br />
-![Halaman Membuat Event](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp/Halaman-Membuat-Event.png)
+![Halaman Membuat Event](https://github.com/mekas/mb1313600022/blob/master/1313618029/MockUp/Halaman-Membuat-Event.PNG)
