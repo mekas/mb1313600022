@@ -63,6 +63,8 @@ I want to make an app that gives notification reminder to upcoming movies with d
 
 Reason: The features are too similar with Assignment 1, except the info going to be taken from REST. Please add another distinctive feature, one is suffice. Furtermore, please complete REST endpoint source in the abstract. 
 
+Answer: I have added additional features such as sharing, language options, and notification options for the distinctive feature also the API endpoint is listed in my abstract.
+
 ### 1313618025 (Cindi Tri Fitikasari) Pending
 I want to make book and novels review app
 
