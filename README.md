@@ -23,8 +23,12 @@ I want to create an application that will show food recipes
 ### 1313618033 (Lisa Arief)
 I want to make an application that will display surahs and verses of the Qur'an with audio
 
-### 1313618006 (Agatha Marcella)
+### 1313618006 (Agatha Marcella) Pending
 I like to propose an app that will display list of coffee shops with good ambience and can make people focus on work.
+
+Feedbacks:
+- Generally rejected, the base idea is too similar with Assignment 1 only change the content
+- Please add distinctive features unique to your app. 
 
 ### 1313618012 (Fathimah Azzahra)
 I want to make an app that gives notification reminder to upcoming movies with details
