@@ -11,6 +11,7 @@ Fruitin is an application that displays the nutrition of various fruits. This ap
 
 ### API Link
 * https://www.fruityvice.com/#2 (fruityvice)
+* https://www.fruityvice.com/api/fruit/all (REST endpoint)
 
 ### Features
 * List of fruits
