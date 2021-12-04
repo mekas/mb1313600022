@@ -125,6 +125,8 @@ I want to make an application that displays information on the availability of r
 
 Reason: Mockup incomplete to me
 
+Reply : I have updated mockup
+
 ### 1313618010 (Muhammad Asyraf Amanullah) Pending
 I want to make health care place search app
 
