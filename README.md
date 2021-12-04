@@ -70,13 +70,14 @@ I want to make a dictionary app where users can search the meaning of words
 
 Condition: Beware your apps is too similar with existing similar apps on Android. If your idea don't have distinction and merely clone others. Google will probably reject it later when you publish to them.  
 
-### 1313618001 (Afny) Accepted with Condition
+### 1313618001 (Afny) Pending
 I want to make an ornamental fish application along with the details and how to care for it
 
 Conditions:
 1. Develop with Android
 2. Constraint of Ornamental fish isn't too clear
 3. You are taking the information from where?, Check the permission of REST endpoint. Since later, Google will check it when you do upload to Playstore. 
+4. What can be do for users, aside from reading info?
 
 Please edit your description in abstract directory after revising the feedbacks above. 
 
