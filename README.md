@@ -142,8 +142,10 @@ Comment:
 2. Did I read it correct, your app only read sound level?. then do nothing. Just forward user to the information. Then what's the use of the sound noise level?
 3. Too simple.
 
-### 1313618021 (Gian Chiesa Maghriza)
+### 1313618021 (Gian Chiesa Maghriza) Pending
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
+
+Comment: I said this before in Class, I reject proposal which clone another students idea by chaning the content. List, detail are features of assignment 1. Whereas search item been taken as another student. But you listed share, I can accept this except, no further explanation given plus no mockup. 
 
 ### 1313618026 (Rachel Haryawan)
 I want to make an application that can display weekly meal planner.
