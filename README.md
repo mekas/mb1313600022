@@ -64,6 +64,9 @@ I want to make book and novels review app
 
 Reason: Mockup seems incomplete. 
 
+Answer:
+I have updated mockup storyou
+
 ### 1313618016 (Ridwan Syah) Pending
 I want to make an app that will show movie trailers, movie details and add bookmarks
 
