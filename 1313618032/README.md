@@ -27,5 +27,5 @@ webview: kanji details from jisho.org webpage
 ## mockups
 
 - kanji details
-[Kanji Details](https://github.com/mekas/mb1313600022/blob/master/1313618032/kanji-details.png)
+![Kanji Details](https://github.com/mekas/mb1313600022/blob/master/1313618032/kanji-details.png)
 
