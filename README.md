@@ -116,8 +116,10 @@ Please be aware about 50% of submitted last course apps on Playstore was due to 
 ### 1313618038 (Fajar Nurrahman)
 I want to make an app about PC game reviews for users who want to find the best games and join the community
 
-### 1313618037 (Adi Rahman)
+### 1313618037 (Adi Rahman) Pending
 I want to make an application that displays information on the availability of room or bed capacity in a hospital
+
+Reason: Mockup incomplete to me
 
 ### 1313618010 (Muhammad Asyraf Amanullah) Pending
 I want to make health care place search app
