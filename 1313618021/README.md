@@ -17,7 +17,7 @@ Neko Sekai is Mobile Apps that user can find their favorite cat info also if use
 
 - Users can see the list of various type of cat info
 - Users can see Detail of various type of cat info
-- Users can do favorite and share the fact/story what cat that they now in timeline page (user can do post)
+- Users can do favorite and share/post the fun fact/story about cat that they know and in timeline page
 - Users can search if user want to pet a cat but still confused what kind of cat that suitable for user, they can search cat types with some category like physical characteristic or behaviour
 
 # Mockups
