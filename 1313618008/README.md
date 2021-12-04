@@ -23,3 +23,7 @@ Zona Coding is an application that provides free programming tutorial articles i
 # Mockups
 
 ![Mockup](./mockup.png)
+
+# Technology Used
+
+- Android Studio

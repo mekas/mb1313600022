@@ -25,6 +25,8 @@ I want to create an application that will show articles about programming tutori
 
 Reason: Typically website content publishing rights hold exclusively by their maker. Please give if you receive permission properly. 
 
+Reply: The website content that will be placed in this application is content from my own website, which is https://zonacoding.com
+
 ### 1313618009 (Novitasari) Pending
 I want to create an application that will show food recipes
 
