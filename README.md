@@ -123,6 +123,8 @@ I want to make an workout reminder that will show workout movement and tips n tr
 
 Decision: I'm more inclined to reject this idea based on primarly it is better suited released as ebook instead of app. What's the interaction aside from navigation?
 
+_reply : I have added time in the daily program which has been set up for additional interaction_
+
 ### 1313618032 (Aldian Asmara) Accepted
 I want to make jouyou kanji flashcard and quiz app to help people learn japanese
 
