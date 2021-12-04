@@ -13,13 +13,23 @@ I want to create an calculator application that specifically calculates taxes ba
 
 Reason: I can see you'll be creating calculator, but I can't see for what purpose the WebView be used?
 
-### 1313618030 (Farhan Herdian Pradana)
+Reply :
+
+I added a WebView to provide additional information regarding how the tax is calculated from a trusted source such as the law or the official website of the tax agency. The next reason is that the webview can serve to provide other education to users regarding matters relating to taxes that are being discussed.
+
+### 1313618030 (Farhan Herdian Pradana) Pending
 I want to create anime database app so that anime watchers can find anime, give score, and add favorite
+
+Reasons:
+1. You're listing scoring, but I can't see any on the mockups.
+2. Complete REST endpoint source & information. 
 
 ### 1313618008 (Lazuardy Khatulistiwa) Pending
 I want to create an application that will show articles about programming tutorial in Indonesian
 
 Reason: Typically website content publishing rights hold exclusively by their maker. Please give if you receive permission properly. 
+
+Reply: The website content that will be placed in this application is content from my own website, which is https://zonacoding.com
 
 ### 1313618009 (Novitasari) Pending
 I want to create an application that will show food recipes
@@ -43,14 +53,20 @@ I want to make an app that gives notification reminder to upcoming movies with d
 
 Reason: The features are too similar with Assignment 1, except the info going to be taken from REST. Please add another distinctive feature, one is suffice. Furtermore, please complete REST endpoint source in the abstract. 
 
-### 1313618025 (Cindi Tri Fitikasari)
+### 1313618025 (Cindi Tri Fitikasari) Pending
 I want to make book and novels review app
 
-### 1313618016 (Ridwan Syah)
+Reason: Mockup seems incomplete. 
+
+### 1313618016 (Ridwan Syah) Pending
 I want to make an app that will show movie trailers, movie details and add bookmarks
 
-### 1313618017 (Zakiyah Hamidah)
+Feedback: Please create a proper abstract. 
+
+### 1313618017 (Zakiyah Hamidah) Pending
 I want to make an app that will show us information about nutrition values of fruits
+
+Feedback: Please complete REST endpoint info. 
 
 ### 1313618004 (Tantyo N T) Accepted
 I wish to create an app where users can read most of Lovecraft's recorded cosmic horror literatures.
@@ -63,20 +79,21 @@ Short answer: Yes, **everyone has permission** to share his works and create der
 
 Long answer: See "Copyright Issue" within personal project directory's README.md
 
-Please state in the abstract, the source of the literature you'll be using.  
+Please complete the source of Lovecraft literature.   
 
 ### 1313618005 (Diyah Anggraeny) Accepted with Condition
 I want to make a dictionary app where users can search the meaning of words
 
 Condition: Beware your apps is too similar with existing similar apps on Android. If your idea don't have distinction and merely clone others. Google will probably reject it later when you publish to them.  
 
-### 1313618001 (Afny) Accepted with Condition
+### 1313618001 (Afny) Pending
 I want to make an ornamental fish application along with the details and how to care for it
 
 Conditions:
 1. Develop with Android
 2. Constraint of Ornamental fish isn't too clear
 3. You are taking the information from where?, Check the permission of REST endpoint. Since later, Google will check it when you do upload to Playstore. 
+4. What can be do for users, aside from reading info?
 
 Please edit your description in abstract directory after revising the feedbacks above. 
 
@@ -86,8 +103,11 @@ I want to make an workout reminder that will show workout movement and tips n tr
 ### 1313618032 (Aldian Asmara)
 I want to make jouyou kanji flashcard and quiz app to help people learn japanese
 
-### 1313618018 (Dhimas Amri Pratama)
+### 1313618018 (Dhimas Amri Pratama) Accepted with condition
 I want to make a to do list app that will help us manage our task.
+
+Comment:
+Please be aware about 50% of submitted last course apps on Playstore was due to cloning. Google Began implementing this policy in recent years. Anyway, if your proposal be rejected by Google later I just need to give your final project low score. 
 
 ### 1313618038 (Fajar Nurrahman)
 I want to make an app about PC game reviews for users who want to find the best games and join the community
@@ -132,11 +152,15 @@ please check for updates in my directory
 2. I've also added feedback to users about their exhaust noise. (check mockup)
 3. I don't know your simple definition sir, so please explain the limit, but it's true I plan to make it as simple as possible but still meet the requirements of your final project
 
-### 1313618021 (Gian Chiesa Maghriza)
+### 1313618021 (Gian Chiesa Maghriza) Pending
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
 
-### 1313618026 (Rachel Haryawan)
+Comment: I said this before in Class, I reject proposal which clone another students idea by chaning the content. List, detail are features of assignment 1. Whereas search item been taken as another student. But you listed share, I can accept this except, no further explanation given plus no mockup. 
+
+### 1313618026 (Rachel Haryawan) Pending
 I want to make an application that can display weekly meal planner.
+
+Feedback: Explain how you'll be picking new set of food recipees each week?
 
 ### 1313618029 (Resa Fajar Sukma)
 I want to make an application that can help me and my friends find badminton competitions.

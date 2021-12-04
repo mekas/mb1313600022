@@ -6,7 +6,7 @@ Zona Coding is an application that provides free programming tutorial articles i
 
 - Users who want to learn programming
 - Programmer in general
-- Zona Coding's visitor or <a href="https://www.instagram.com/zonacoding/followers/">followers</a> (Currently, <a href="https://www.zonacoding.com/">the site</a> is maintenance because <a href="https://tekno.kompas.com/read/2021/12/02/18424837/daftar-aplikasi-yang-tumbang-akibat-kebakaran-gedung-cyber?page=all">Cyber building incident</a>)
+- <a href="https://zonacoding.com/">Zona Coding</a>'s visitor or <a href="https://www.instagram.com/zonacoding/followers/">followers</a>
 
 # Advanced Topic
 
@@ -23,3 +23,7 @@ Zona Coding is an application that provides free programming tutorial articles i
 # Mockups
 
 ![Mockup](./mockup.png)
+
+# Technology Used
+
+- Android Studio

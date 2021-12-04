@@ -1,6 +1,8 @@
 # Lovecraft Archive
 
-I wish to create an app using flutter where users can read most of Lovecraft's archived "cosmic horror" literatures.
+I wish to create an app using Flutter where users can read most of Lovecraft's archived "cosmic horror" literatures.
+
+This project uses Flutter.
 
 # Target Users
 
@@ -40,6 +42,32 @@ I won't share his still-copyrighted works, **only the ones considered to be unde
 - Unregistered copyrights. So, the works are treated as public domain by default.
 
 Those are reasons related to law directly. As for reasons related to his community; there are **numerous derived works based on Lovecraft's literatures** (games, literatures, maybe songs too and more). Everyone generally agree, maybe to some extent including the legal bodies, that (most of) Lovecraft's works are public domain. You can even just google the derived works and notice they're not even considered to be violating.
+
+# Sources
+
+Below are the literatures' (possible) sources the app will be using:
+
+1. https://www.hplovecraft.com/
+2. https://en.wikisource.org/wiki/Author:Howard_Phillips_Lovecraft
+3. https://archive.org/details/TheCompleteWorksOfHPLovecraft_201412/page/n1/mode/2up
+
+All sources likely contain each others' archived content and will be credited if their archive do end up entering the app. Sources are written on order of priority. So, for example, if (1) contains story (A) then (2) and (3) will not be read.
+
+If, for example, (2) or (3) are not used because (1) has all Lovecraft's works archived; then the rest will not be credited because they are not used.
+
+# Rest APIs
+
+/read
+
+method: POST
+
+Notifies the server that a reader is reading a literature.
+
+/read
+
+method: GET
+
+Returns yesterday's top 5 reads.
 
 # Design / Mockup
 
