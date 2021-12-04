@@ -152,7 +152,7 @@ I want to make an application that will show football leagues & cups include liv
 
 Feedback: State if you are using Android Studio.
 
-Reply: I have updated my absract about tech stack and I use android studio(kotlin) for it
+Reply: I have updated my absract about tech stack and I use android studio(kotlin) as code editor.
 
 ### 1313618002 (Nilatil Moena) Pending
 I want to create an application that can display information about Marvel's library of comic
