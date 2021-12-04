@@ -1,5 +1,5 @@
 ### Fruitin App
-nuty is an application that displays the nutrition of various fruits. This application will help users to find some of the nutritional content in the fruit.
+Fruitin is an application that displays the nutrition of various fruits. This application will help users to find some of the nutritional content in the fruit.
 
 ### Target Segment
 * Users in general
