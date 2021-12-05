@@ -11,7 +11,7 @@ with the information of nutrition (calories, carbohydrates, fat, and protein).
 2. User can get calories, carbohydrates, fat, and protein information for the menus
 
 ## Advanced android concept
-REST API
+REST API. The API used is from Spoonacular (https://spoonacular.com/food-api/docs)
 
 ## Mockups
 Figma Link: https://www.figma.com/file/bopqVzVLmMvMBPHbU6cfXD/Untitled?node-id=0%3A1
