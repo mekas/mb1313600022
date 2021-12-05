@@ -14,11 +14,12 @@ Quran Saku is an application where users can recite the Qur'an with a translatio
 
 # API (Data Source)
 Quran API ID
-- Link: https://github.com/renomureza/quran-api-id (Licensed under MIT)
+- Documantation: https://github.com/renomureza/quran-api-id (Licensed under MIT)
+- Link : https://quran-api-id.vercel.app
 - Endpoint
-- https://quran-api-id.vercel.app/surahs
-- https://quran-api-id.vercel.app/surahs/{noSurah}
-- https://quran-api-id.vercel.app/surahs/{noSurah}/ayahs
+-- /surahs
+-- /{noSurah}
+-- /{noSurah}/ayahs
 
 # Mockups
 ![Mockup](https://github.com/mekas/mb1313600022/blob/master/1313618033/mockup.png)
