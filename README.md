@@ -187,7 +187,7 @@ Reason: As Far as I Know, Marvel license the information for their franchise, th
 
 _Reply: So Marvel itself provides their official API, which can be accessed via https://developer.marvel.com/ (The Marvel Comics API) and allows developers everywhere to access information about Marvel and can use the API to develop free applications, websites, products, services, etc . I've read Marvel API terms of use and they specify the rules apply to the applications created, that there are no ads, must be offered free of charge to download or otherwise access and may not contain any in-App purchase features or any other method of monetization. So for the application that I will create will not be a problem._
 
-### 1313618007 (Andri Rahmanto) Pending
+### 1313618007 (Andri Rahmanto) Accepted
 I want to make a noise exhaust detection application, which makes it possible for the user to know the exhaust noise in db units
 
 Comment:
