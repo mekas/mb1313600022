@@ -124,6 +124,8 @@ Reply: I've updated the description, added some features, and api links
 
 Me: You still haven't put limitation of what species that would be displayed?, especially if most Fish species aren't even available here. Furthermore, how to nurture them haven't given in existing source list. Please add another source of how to nurture them. 
 
+answer : The type of fish that I will display is aquarium freshwater ornamental fish, and maybe some fish from this link for example (https://kabarbesuki.pikiran-rakyat.com/berita/pr-191189810/50-spesies-ikan-air-tawar-yang-cantik-bisa-anda-pelihara-di-kolam-dan-aquarium-rumah). And the treatment on the fish I took info from here (https://id.wikihow.com/Merawat-Ikan).
+
 ### 1313618023 (Mushab Utsmani Ibrahim) Accepted
 I want to make an workout reminder that will show workout movement and tips n trick
 
