@@ -174,7 +174,7 @@ Feedback: State if you are using Android Studio.
 
 Reply: I have updated my absract about tech stack and I use android studio(kotlin) as code editor.
 
-### 1313618002 (Nilatil Moena) Pending
+### 1313618002 (Nilatil Moena) Accepted
 I want to create an application that can display information about Marvel's library of comic
 
 Reason: As Far as I Know, Marvel license the information for their franchise, the publishing rights. Can you check to Marvel whether the information of its franchise free to publish. If not, Google will reject it later, when you publish the App. 
