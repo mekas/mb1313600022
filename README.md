@@ -171,6 +171,8 @@ Answer: I added report page mockup sir. I want to show the report response as a 
 
 Answer: Sorry, but if its' a toast. I can't accept this idea. Due to over simplicity of the functions (Just a URL scan). At least the report need to be further processed.
 
+Answer (Z): I updated the mockup and add WebView as my report page after reported link from user being processed sir.
+
 ### 1313618014 (Muhammad Ardani) Pending
 I want to make an application that will show football leagues & cups include livescore etc.
 

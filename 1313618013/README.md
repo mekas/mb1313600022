@@ -9,11 +9,12 @@ People who wants to check the url they want to visit
 ## Advance Topics
 
 - REST request
+- WebView (will use it on report page)
 
 ## Features
 
 - User can enter url/link they want to check and see the scan result from various security checker
-- User can report url/link if it's suspicious
+- User can report url/link if it's suspicious and then see the results after being processed in a WebView
 - User can see top recents phising links
 
 ## Mockups
