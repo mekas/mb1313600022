@@ -118,6 +118,8 @@ Please edit your description in abstract directory after revising the feedbacks 
 
 Reply: I've updated the description, added some features, and api links
 
+Me: You still haven't put limitation of what species would be displayed?, especially if most Fish species aren't even available here. Furthermore, how to nurture them haven't given in existing source list. Please add another source of how to nurture them. 
+
 ### 1313618023 (Mushab Utsmani Ibrahim) Pending
 I want to make an workout reminder that will show workout movement and tips n trick
 
