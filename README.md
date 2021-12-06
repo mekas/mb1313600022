@@ -201,6 +201,11 @@ please check for updates in my directory
 
 Answer: Previous mockup was so bad. But now I see you display the noise level as animation, I can accept that. Still pending due to no indicator in the mockup how the webview will be opened. Secondly, put source of Noise level regulation please. 
 
+Reply:
+the indicator already exists, but I've updated the mockup so you can mention it
+
+and I have updated the link to the source in my directory, you can access it here too (https://korlantas.polri.go.id/news/razia-knalpot-brong-berikut-ukuran-maksimal-kebisingan-yang-diperbolehkan/)
+
 ### 1313618021 (Gian Chiesa Maghriza) Accepted
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
 
