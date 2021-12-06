@@ -150,7 +150,7 @@ Reason: Mockup incomplete to me
 
 Reply : I have updated mockup
 
-### 1313618010 (Muhammad Asyraf Amanullah) Pending
+### 1313618010 (Muhammad Asyraf Amanullah) Accepted
 I want to make health care place search app
 
 Reason: You're getting close, please fulfill REST Endpoint information in the abstract. And since you don't state which technology you'll be using, I assume you're using Android Studio.  
