@@ -28,7 +28,7 @@ Answer:
 1. I have updated scoring mockup
 2. I use kitsu API, but i will wrap it in my own backend API to support login, register, add favorite, and scoring features
 
-### 1313618008 (Lazuardy Khatulistiwa) Pending
+### 1313618008 (Lazuardy Khatulistiwa) Accepted
 I want to create an application that will show articles about programming tutorial in Indonesian
 
 Reason: Typically website content publishing rights hold exclusively by their maker. Please give if you receive permission properly. 
