@@ -122,7 +122,7 @@ Reply: I've updated the description, added some features, and api links
 
 Me: You still haven't put limitation of what species that would be displayed?, especially if most Fish species aren't even available here. Furthermore, how to nurture them haven't given in existing source list. Please add another source of how to nurture them. 
 
-### 1313618023 (Mushab Utsmani Ibrahim) Pending
+### 1313618023 (Mushab Utsmani Ibrahim) Accepted
 I want to make an workout reminder that will show workout movement and tips n trick
 
 Decision: I'm more inclined to reject this idea based on primarily it is better suited released as ebook instead of app. What's the interaction aside from navigation?
