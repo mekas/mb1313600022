@@ -51,7 +51,7 @@ Reason: Please complete REST Endpoint information.
 
 Answer: In this project i will use Quran API ID (Licensed under MIT). I've also added REST Endpoint Information that i used in my own directory.
 
-### 1313618006 (Agatha Marcella) Pending
+### 1313618006 (Agatha Marcella) Accepted with condition
 I like to propose an app that will display list of coffee shops with good ambience and can make people focus on work.
 
 Feedbacks:
@@ -59,6 +59,8 @@ Feedbacks:
 - Please add distinctive features unique to your app. 
 
 Answer : I added some features like share and rating.
+
+Reply: Both newly proposed features weren't your original. While in idea stage, it's actually easy to think distinctive trait for your app. You just need to be dare with the risk. Regardless I will accept this on condition Google will accept your apps later.  
 
 ### 1313618012 (Fathimah Azzahra) Accepted
 I want to make an app that gives notification reminder to upcoming movies with details
