@@ -202,12 +202,14 @@ Comment: I said this before in Class, I reject proposal which clone another stud
 
 Reply : I have updated my proposal and explain my share feature, also update mock too sir.
 
-### 1313618026 (Rachel Haryawan) Pending
+### 1313618026 (Rachel Haryawan) Accepted
 I want to make an application that can display weekly meal planner.
 
 Feedback: Explain how you'll be picking new set of food recipees each week?
 
 Reply: I'll use API from Spoonacular and they provide weekly meal plan endpoint, Sir. I have add the link of API in README.md on my folder.
+
+Answer: To be honest, your app is too similar in features with assignment 1. But since, we can regard weekly meal a different set of feature. Accepted. But notice your app has to be tested in two different weeks for proofing. 
 
 ### 1313618029 (Resa Fajar Sukma) Accepted
 I want to make an application that can help me and my friends find badminton competitions.
