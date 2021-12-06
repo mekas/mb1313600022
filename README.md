@@ -141,7 +141,7 @@ Please be aware about 50% of submitted last course apps on Playstore was rejecte
 ### 1313618038 (Fajar Nurrahman)
 I want to make an app about PC game reviews for users who want to find the best games and join the community
 
-### 1313618037 (Adi Rahman) Pending
+### 1313618037 (Adi Rahman) Accepted
 I want to make an application that displays information on the availability of room or bed capacity in a hospital
 
 Reason: Mockup incomplete to me
@@ -219,9 +219,9 @@ Comment: Don't have any problem at all. But if I may, your mockup make things wo
 ### 1313618022 (Yusriizal Piliyang) Pending
 I want to make music player app
 
-Comments: Personally I don't have any problem with the idea. But are you really sure?, Rest is ideal for static data. Music if streamed online with any player typically played before waiting the data completely downloaded. With REST you need to wait until transmission is complete. This would affect user experience. 
+Comments: Personally I don't have any problem with the idea. But are you really sure?, Rest is ideal for static data. Music if streamed online with any player typically played before waiting the data be completely downloaded. With REST you need to wait until transmission is complete. This would affect user experience. 
 
 ### 1313618031 (Muhammad Izzat Ibrahim) Pending
 I want to make an application that can show peapole destination and what they can see in Kepulauan Seribu. 
 
-Reasons: Usually, I won't accept idea related to tourism. Due to hardness of the proofing ever visited traveler which I have explained this on class. However I do knew you have Pulau Seribu Travelers circle. Therefore I accept on a condition, please make profile of 3 users which have this experience. And please complete the mockup properly.  
+Reasons: Usually, I won't accept idea related to tourism. Due to hardness of the proofing ever visited traveler which I have explained this on class. However I do knew you have Pulau Seribu Travelers circle. Therefore I accept on a condition, please make profile of 3 users which have this experiences. And please complete the mockup properly.  
