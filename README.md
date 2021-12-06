@@ -60,10 +60,10 @@ Feedbacks:
 
 Answer : I added some features like share and rating.
 
-### 1313618012 (Fathimah Azzahra) Pending
+### 1313618012 (Fathimah Azzahra) Accepted
 I want to make an app that gives notification reminder to upcoming movies with details
 
-Reason: The features are too similar with Assignment 1, except the info going to be taken from REST. Please add another distinctive feature, one is suffice. Furtermore, please complete REST endpoint source in the abstract. 
+Reason: The features are too similar with Assignment 1, except the info going to be taken from REST. Please add another distinctive feature, one is suffice. Furthermore, please complete REST endpoint source in the abstract. 
 
 Answer: I have added additional features such as sharing, language options, and notification options for the distinctive feature also the API endpoint is listed in my abstract.
 
