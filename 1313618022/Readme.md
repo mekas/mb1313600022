@@ -5,7 +5,7 @@ I want to make an application that can hear music
 - User who need a hear music in android
 
 ## Advanced Topic
-
+- Android Notification
 
 ## Features
 - play music
