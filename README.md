@@ -191,7 +191,7 @@ Reply:
 please check for updates in my directory
 1. fixed the link to exhaust noise regulation.
 2. I've also added feedback to users about their exhaust noise. (check mockup)
-3. I don't know your simple definition sir, so please explain the limit, but it's true I plan to make it as simple as possible but still meet the requirements of your final project
+3. I don't know your simple definition sir, so please explain minimum for the level of complexity, but it's true I plan to make it as simple as possible but still meet the requirements of your final project
 
 ### 1313618021 (Gian Chiesa Maghriza) Pending
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
