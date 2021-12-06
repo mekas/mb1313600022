@@ -80,12 +80,14 @@ I want to make an app that will show movie trailers, movie details and add bookm
 
 Feedback: Please create a proper abstract. 
 
-### 1313618017 (Zakiyah Hamidah) Pending
+### 1313618017 (Zakiyah Hamidah) Accepted with condition
 I want to make an app that will show us information about nutrition values of fruits
 
 Feedback: Please complete REST endpoint info. 
 
 Answer : I will use fruityvice API, I've updated API link in README
+
+Me: Your idea barely pass the minimum specification. But I will note this idea don't have any distinctive traits (low score). Search been taken by other first, unless you can invent a distinct trait unique to your app. 
 
 ### 1313618004 (Tantyo N T) Accepted
 I wish to create an app where users can read most of Lovecraft's recorded cosmic horror literatures.
