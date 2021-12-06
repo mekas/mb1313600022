@@ -1,5 +1,5 @@
 ## fish lover
-I want to create an app of different types of Aquarium ornamental fish, how to care for them, can share them and add to favorites.
+I want to create an app of different types of Aquarium freshwater ornamental fish, how to care for them, can share them and add to favorites.
 
 ## Target Segment
 someone who likes and wants to keep fish
@@ -11,7 +11,7 @@ someone who likes and wants to keep fish
 - list of ornamental fish
 - detailed information of each ornamental fish
 - how to care for ornamental fish
-- share about fish
+- share about fish (source https://id.wikihow.com/Merawat-Ikan)
 - add favorite
 
 ## Technology Used
