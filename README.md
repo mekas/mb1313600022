@@ -166,6 +166,8 @@ I want to make an application information about local shoe products in indonesia
 
 Reason: Complete REST endpoint & WebVIew source & information.
 
+Reply: I will use shoes-news API, Thats my own api and this is link of my website https://sepatu.left-store.biz/
+
 ### 1313618013 (Zaidan Pratama) Accepted
 I want to make an application for people to scan the url so that they know the url is safe or not and the app also provides top recents phising links
 
