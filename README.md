@@ -199,10 +199,10 @@ please check for updates in my directory
 
 Answer: Previous mockup was so bad. But now I see you display the noise level as animation, I can accept that. Still pending due to no indicator in the mockup how the webview will be opened. Secondly, put source of Noise level regulation please. 
 
-### 1313618021 (Gian Chiesa Maghriza) Pending
+### 1313618021 (Gian Chiesa Maghriza) Accepted
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
 
-Comment: I said this before in Class, I reject proposal which clone another students idea by chaning the content. List, detail are features of assignment 1. Whereas search item been taken as another student. But you listed share, I can accept this except, no further explanation given plus no mockup.
+Comment: I said this before in Class, I reject proposal which clone another students idea by changing the content. List, detail are features of assignment 1. Whereas search item been taken as another student. But you listed share, I can accept this except, no further explanation given plus no mockup.
 
 Reply : I have updated my proposal and explain my share feature, also update mock too sir.
 
