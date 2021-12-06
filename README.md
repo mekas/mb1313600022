@@ -197,6 +197,8 @@ please check for updates in my directory
 2. I've also added feedback to users about their exhaust noise. (check mockup)
 3. I don't know your simple definition sir, so please explain minimum for the level of complexity, I only know the requirements that are in the final project, then I try to fulfill those requirements, and I don't find any requirements regarding the level of complexity.
 
+Answer: Previous mockup was so bad. But now I see you display the noise level as animation, I can accept that. Still pending due to no indicator in the mockup how the webview will be opened. 
+
 ### 1313618021 (Gian Chiesa Maghriza) Pending
 I want to make Pet Cat Info Apps that will show cat info, breeds, can do favorite, show cat image, can search by category
 
