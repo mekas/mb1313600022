@@ -240,6 +240,8 @@ I want to make music player app
 
 Comments: Personally I don't have any problem with the idea. But are you really sure?, Rest is ideal for static data. Music if streamed online with any player typically played before waiting the data be completely downloaded. With REST you need to wait until transmission is complete. This would affect user experience. 
 
+Answer: I forgot that my application is not an online music player application, so I just remembered not using rest api, I intend to make a music player from local storage using the library
+
 ### 1313618031 (Muhammad Izzat Ibrahim) Pending
 I want to make an application that can show peapole destination and what they can see in Kepulauan Seribu. 
 
