@@ -44,7 +44,7 @@ Feedbacks:
 
 _reply: sir, I've updated my proposal by adding some features, mockup updated and API link_
 
-### 1313618033 (Lisa Arief) Pending
+### 1313618033 (Lisa Arief) Accepted
 I want to make an application that will display surahs and verses of the Qur'an with audio
 
 Reason: Please complete REST Endpoint information. 
