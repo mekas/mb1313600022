@@ -8,10 +8,13 @@ Movie Lovers
 Rest Request
 
 ## App Features
-1. User can see movie trailers
+1. User can see movie trailers on youtube
 2. User can see movie details
 3. User can see score film
 4. User can save favorite movie in bookmark page
+5. User can edit profile
+6. User can search for the movie they want to search
+7. User can download movie trailer
 
 ## MockUp
 [MockUp](https://www.figma.com/file/Ot6NxjfLgW74iFswjCxSe2/Untitled?node-id=0%3A1)
@@ -21,4 +24,8 @@ Rest Request
 ![Screenshot 2](https://github.com/mekas/mb1313600022/blob/master/1313618016/home.PNG)
 ![Screenshot 3](https://github.com/mekas/mb1313600022/blob/master/1313618016/detail.PNG)
 ![Screenshot 4](https://github.com/mekas/mb1313600022/blob/master/1313618016/bookmark.PNG)
-![Screenshot 4](https://github.com/mekas/mb1313600022/blob/master/1313618016/profil.PNG)
+![Screenshot 5](https://github.com/mekas/mb1313600022/blob/master/1313618016/profil.PNG)
+![Screenshot 6](https://github.com/mekas/mb1313600022/blob/master/1313618016/searching.PNG)
+![Screenshot 7](https://github.com/mekas/mb1313600022/blob/master/1313618016/fail_search.PNG)
+![Screenshot 8](https://github.com/mekas/mb1313600022/blob/master/1313618016/edit_profil.PNG)
+![Screenshot 9](https://github.com/mekas/mb1313600022/blob/master/1313618016/download.PNG)
