@@ -80,7 +80,9 @@ I have updated mockup storyou
 ### 1313618016 (Ridwan Syah) Pending
 I want to make an app that will show movie trailers, movie details and add bookmarks
 
-Feedback: Your idea is pretty good, please include all the mockups. Since you propose more features than currently existing mockups. 
+Feedback: Your idea is pretty good, please include all the mockups. Since you propose more features than currently existing mockups.
+
+Answer: I have included all the mockups
 
 ### 1313618017 (Zakiyah Hamidah) Accepted with condition
 I want to make an app that will show us information about nutrition values of fruits
