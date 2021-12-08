@@ -10,7 +10,7 @@ Since pandemic everyone's starting to work from home, so i thought some people w
 - Add favorite place
 - List of favorite coffee shops
 - Share the information
-- Give rating to the coffee shops
+- Rating to the coffee shops
 ## Mockups
 ![SplashScreen](https://user-images.githubusercontent.com/56811810/144404750-483c6fc7-e883-43d2-9b15-6f7ef5bdeea6.png)
 ![ListPlace](https://user-images.githubusercontent.com/56811810/144404767-feaeebbf-f38c-4541-82fe-7a54eaaadc56.png)
