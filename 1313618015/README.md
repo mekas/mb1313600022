@@ -1,4 +1,4 @@
-# Tax Calculator.
+# Kalkulator Pajak
 
 I want to create an calculator application that specifically calculates taxes including PBB tax, BPHTB, Hotel tax, and Restaurant tax based on local tax regulations in Indonesia
 
