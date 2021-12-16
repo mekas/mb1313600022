@@ -12,7 +12,7 @@ Users who have a high interest in reading and writing
 - Reading a content
 
 ## Advance Topic
-REST API
+FCM Notification
 
 ## Mockup
 ![Wireframe](https://user-images.githubusercontent.com/55974755/144706206-d4d114ca-b984-4148-814b-ca1e61ed93cc.png)
