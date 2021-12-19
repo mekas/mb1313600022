@@ -58,7 +58,7 @@ Feedbacks:
 - Generally rejected, the base idea is too similar with Assignment 1 only change the content
 - Please add distinctive features unique to your app. 
 
-Answer : I added some features like share and rating.
+Answer : I added some features like rating and review.
 
 Reply: Both newly proposed features weren't your original. While in idea stage, it's actually easy to think distinctive trait for your app. You just need to be dare with the risk. Regardless I will accept this on condition Google will accept your apps later.  
 
