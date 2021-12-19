@@ -1,18 +1,17 @@
 # WorkSpace
-Since pandemic everyone's starting to work from home, so i thought some people would get bored working from home every single day and might need new place with good ambience and wifi. I want to make an app that will display list of coffee shops that can make people more focus or get the inspirations for their work.
+Since pandemic everyone's starting to work from home, so i thought some people would get bored working from home every single day and might need new place with good ambience and wifi. I want to make an app that will display list of coffee shop that can make people more focus or get the inspirations for their work.
 ## Target Segment
 - User who work from home
 ## Advance Topic
 - Rest API
 ## Features
-- List of coffee shops
-- Details of the coffee shops (Location, Operational Hour, Description, Recommendation Menu, and Range price)
-- Add favorite place
-- List of favorite coffee shops
-- Share the information
-- Rating to the coffee shops
+- List of coffee shop
+- Details of the coffee shop (Operational Hour, Description, Phone, and Range price)
+- Rating of the coffee shop
+- Direction of the coffee shop's location
+- Review of the coffee shop
 ## Mockups
-![SplashScreen](https://user-images.githubusercontent.com/56811810/144404750-483c6fc7-e883-43d2-9b15-6f7ef5bdeea6.png)
-![ListPlace](https://user-images.githubusercontent.com/56811810/144404767-feaeebbf-f38c-4541-82fe-7a54eaaadc56.png)
-![ListFavorites](https://user-images.githubusercontent.com/56811810/144404782-18ce2b70-faeb-4292-b256-e748ef5507e4.png)
-![DetailPlace](https://user-images.githubusercontent.com/56811810/144404789-77770e0e-e313-4ae4-923e-4858fdd9518e.png)
+![feature graphics](https://user-images.githubusercontent.com/56811810/146674107-b0f1696a-4e43-4005-8bd2-76cc924c410d.png)
+![icon](https://user-images.githubusercontent.com/56811810/146674081-54ea030d-7731-4bb4-b015-e4ec9259afe2.png)
+![main](https://user-images.githubusercontent.com/56811810/146674084-cd37878a-9474-4393-b355-9eddbc61dcdf.png)
+![detail](https://user-images.githubusercontent.com/56811810/146674087-a28f2c89-85af-4f62-a370-f376f7ea325e.png)
