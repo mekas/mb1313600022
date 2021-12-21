@@ -9,6 +9,7 @@ with the information of nutrition (calories, carbohydrates, fat, and protein).
 ## What the app featured
 1. User can get menu's inspiration every week from breakfast, lunch, and dinner
 2. User can get calories, carbohydrates, fat, and protein information for the menus
+3. User can share the menus information and share it to notes to save for later
 
 ## Advanced android concept
 REST API. The API used is from Spoonacular (https://spoonacular.com/food-api/docs)
