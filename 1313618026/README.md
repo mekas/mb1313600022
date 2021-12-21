@@ -16,4 +16,4 @@ REST API. The API used is from Spoonacular (https://spoonacular.com/food-api/doc
 ## Mockups
 Figma Link: https://www.figma.com/file/bopqVzVLmMvMBPHbU6cfXD/Untitled?node-id=0%3A1
 
-<img src="https://user-images.githubusercontent.com/62920741/144656695-62c587de-fa06-43d0-9eac-7a1d3e0751d0.png">
+<img src="https://user-images.githubusercontent.com/62920741/146957387-c20593e8-92b5-44ea-bb6f-78b053802f4f.png">
