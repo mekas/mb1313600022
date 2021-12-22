@@ -22,7 +22,7 @@ https://kitsu.docs.apiary.io/
 
 ## Mockups
 
-![](https://github.com/mekas/mb1313600022/blob/master/1313618030/MyAnimeDBMockup.jpg)
+![](https://github.com/mekas/mb1313600022/blob/master/1313618030/MyAnimeDBMockup-v2.jpg)
 
 ## Technology Used
 
